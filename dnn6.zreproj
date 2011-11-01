@@ -1,0 +1,1361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project>
+  <configuration createBackupFiles="True" hideEmptyRows="False" hideTranslatedRows="False" useSpellChecker="True" neutralLanguageCode="en-us" languagesToDisplay="">
+    <globalSetting name="Filter-ResourceEditorGrid">&lt;XtraSerializer version="1.0" application="View"&gt;
+  &lt;property name="#LayoutVersion" /&gt;
+  &lt;property name="ActiveFilterString" /&gt;
+&lt;/XtraSerializer&gt;</globalSetting>
+    <globalSetting name="Sort-ResourceEditorGrid">&lt;XtraSerializer version="1.0" application="View"&gt;
+  &lt;property name="#LayoutVersion" /&gt;
+  &lt;property name="SortInfo"&gt;~Xtra#Base64AAEAAAD/////AQAAAAAAAAAMAgAAAF1EZXZFeHByZXNzLlh0cmFHcmlkLnYxMC4yLCBWZXJzaW9uPTEwLjIuOC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFAQAAADhEZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvQ29sbGVjdGlvbgQAAAAKZ3JvdXBDb3VudAVjbG9uZQ9jbG9uZUdyb3VwQ291bnQTQ29sbGVjdGlvbkJhc2UrbGlzdAADAAMIsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjEwLjIsIFZlcnNpb249MTAuMi44LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dCBxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AgAAAAAAAAAJAwAAAAAAAAAJBAAAAAQDAAAAsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjEwLjIsIFZlcnNpb249MTAuMi44LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAwRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mb1tdAgAAAAgICQUAAAABAAAAAQAAAAQEAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QDAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgUAAAgICQYAAAABAAAACAAAAAcFAAAAAAEAAAAEAAAABC5EZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvAgAAAAkHAAAADQMQBgAAAAQAAAAJCAAAAA0DDAkAAAAZRGV2RXhwcmVzcy5YdHJhR3JpZC52MTAuMgUHAAAALkRldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8CAAAACVNvcnRPcmRlcgpDb2x1bW5OYW1lAAEICQAAAAEAAAAGCgAAAAhjb2x6aC1DTgEIAAAABwAAAAEAAAAGCwAAAAhjb2xlbi1VUws=&lt;/property&gt;
+&lt;/XtraSerializer&gt;</globalSetting>
+    <globalSetting name="ReadOnlyFileOverwriteBehaviour">0</globalSetting>
+    <globalSetting name="OmitEmptyItems">True</globalSetting>
+    <globalSetting name="ShowCommentsColumnInGrid">False</globalSetting>
+    <globalSetting name="IgnoreWindowsFormsResourcesWithDesignerFiles">True</globalSetting>
+    <globalSetting name="HideInternalDesignerRows">True</globalSetting>
+    <globalSetting name="UseShallowGridDataCumulation">True</globalSetting>
+    <globalSetting name="HideFileGroupFilesInTree">True</globalSetting>
+    <globalSetting name="NeutralLanguageFileNamePattern">[basename][optionaldefaulttypes].[extension]</globalSetting>
+    <globalSetting name="NonNeutralLanguageFileNamePattern">[basename][optionaldefaulttypes].[languagecode].[extension]</globalSetting>
+    <globalSetting name="BaseNameDotCount">0</globalSetting>
+    <globalSetting name="DefaultFileTypesToIgnore">.aspx;.ascx;.asmx;.master;.sitemap</globalSetting>
+    <globalSetting name="Project-PersistGridSettings">True</globalSetting>
+    <globalSetting name="ColorifyNullCells">True</globalSetting>
+    <globalSetting name="EnableExcelExportSnapshots">True</globalSetting>
+    <globalSetting name="CreateNewFilesForm.prefixTextBox.Text">####</globalSetting>
+    <globalSetting name="CreateNewFilesForm.prefixCheckBox.Checked">False</globalSetting>
+    <globalSetting name="CreateNewFilesForm.referenceLanguageComboBox.SelectedIndex">0</globalSetting>
+    <globalSetting name="CreateNewFilesForm.destinationLanguagesListBox">57</globalSetting>
+    <globalSetting name="CreateNewFilesForm.copyTextsCheckBox.Checked">False</globalSetting>
+    <globalSetting name="CreateNewFilesForm.automaticallyTranslateCheckBox.Checked">False</globalSetting>
+    <globalSetting name="autoTranslateForm.prefixTextBox.Text">####</globalSetting>
+    <globalSetting name="autoTranslateForm.prefixCheckBox.Checked">False</globalSetting>
+    <globalSetting name="autoTranslateForm.referenceLanguageComboBoxEdit.SelectedIndex">1</globalSetting>
+    <globalSetting name="autoTranslateForm.languagesToTranslateCheckListBox">0</globalSetting>
+    <globalSetting name="projectMruItems">&lt;?xml version='1.0' encoding='utf-8'?&gt;&lt;items&gt;&lt;item type="2" checksum="1633733984" /&gt;&lt;item type="2" checksum="1549865626" /&gt;&lt;/items&gt;</globalSetting>
+    <userSetting name="John@John-PC.filesInitialDir">C:\Workplace\dnn\dnn6.01</userSetting>
+    <userSetting name="John@John-PC.FindText">Items</userSetting>
+    <userSetting name="John@John-PC.RecentFiles">C:\Workplace\dnn\dnn6.01\App_GlobalResources\GlobalResources.resx;C:\Workplace\dnn\dnn6.01\App_GlobalResources\GlobalResources.zh-CN.resx###***###C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\HostSettings\App_LocalResources\HostSettings.ascx.resx;C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\HostSettings\App_LocalResources\HostSettings.ascx.zh-CN.resx</userSetting>
+    <description>
+    </description>
+  </configuration>
+  <fileGroups>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="7" ignoreDuringExportAndImport="False" uniqueID="480b1f9c-f666-485c-970b-11d2e2647abe">
+      <file filePath="admin\ControlPanel\App_LocalResources\AddModule.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\AddModule.ascx.resx" uniqueID="4b0fd46c-0309-470b-9417-e498294c9d70" />
+      <file filePath="admin\ControlPanel\App_LocalResources\AddModule.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\AddModule.ascx.zh-CN.resx" uniqueID="0f83e009-e5f4-49cb-a7b6-be5ec025f7ed" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="8" ignoreDuringExportAndImport="False" uniqueID="5c418025-7d1d-4eb5-a9ca-07c58019f665">
+      <file filePath="admin\ControlPanel\App_LocalResources\AddPage.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\AddPage.ascx.resx" uniqueID="780c0dd8-db4e-40c5-9869-71caafc16447" />
+      <file filePath="admin\ControlPanel\App_LocalResources\AddPage.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\AddPage.ascx.zh-CN.resx" uniqueID="c7190e87-1edb-4d62-976d-037d12756f85" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="70" ignoreDuringExportAndImport="False" uniqueID="d659af60-34e1-40e8-b281-18a8d79d9cd5">
+      <file filePath="admin\ControlPanel\App_LocalResources\IconBar.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\IconBar.ascx.resx" uniqueID="52df4389-aa15-47ee-9d03-4dc2eeb39fc2" />
+      <file filePath="admin\ControlPanel\App_LocalResources\IconBar.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\IconBar.ascx.zh-CN.resx" uniqueID="1d787e85-fe81-4bf5-815b-f14c2909a186" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="138" ignoreDuringExportAndImport="False" uniqueID="eee4f76b-af4a-4f1f-a407-cc184b2b3fdb">
+      <file filePath="admin\ControlPanel\App_LocalResources\RibbonBar.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\RibbonBar.ascx.resx" uniqueID="f0aecaa9-13f7-4f6b-afc9-bac5c717f7b2" />
+      <file filePath="admin\ControlPanel\App_LocalResources\RibbonBar.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\RibbonBar.ascx.zh-CN.resx" uniqueID="293890ec-0b83-4633-ad49-db2fa5a4cd0e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="162" ignoreDuringExportAndImport="False" uniqueID="d2c82e88-29c5-419d-b5a5-7402971c65ca">
+      <file filePath="admin\ControlPanel\App_LocalResources\SiteAddPage.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\SiteAddPage.ascx.resx" uniqueID="af5111a5-0055-4620-a75d-5a5a74d8c727" />
+      <file filePath="admin\ControlPanel\App_LocalResources\SiteAddPage.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\SiteAddPage.ascx.zh-CN.resx" uniqueID="336f2486-397e-43f0-9930-49b37f2232f1" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="173" ignoreDuringExportAndImport="False" uniqueID="3bb5a711-2f78-4ac5-97e5-f7f37d9ad8ed">
+      <file filePath="admin\ControlPanel\App_LocalResources\SwitchSite.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\SwitchSite.ascx.resx" uniqueID="3427b435-d7a7-41f1-85fe-e98d7cf84d6d" />
+      <file filePath="admin\ControlPanel\App_LocalResources\SwitchSite.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\SwitchSite.ascx.zh-CN.resx" uniqueID="009c37ab-f99b-4cf1-900c-e3a4f2931c5a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="186" ignoreDuringExportAndImport="False" uniqueID="66435d87-f692-4eec-9728-f6637986f343">
+      <file filePath="admin\ControlPanel\App_LocalResources\UpdatePage.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\UpdatePage.ascx.resx" uniqueID="40909d5d-792e-4889-8566-01ae0ba1b54d" />
+      <file filePath="admin\ControlPanel\App_LocalResources\UpdatePage.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\ControlPanel\App_LocalResources\UpdatePage.ascx.zh-CN.resx" uniqueID="676fac21-db18-4f8e-af71-7b34fde7916e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="187" ignoreDuringExportAndImport="False" uniqueID="212a15cb-9afe-4e32-86fd-f4e4972cb84a">
+      <file filePath="admin\Modules\App_LocalResources\Export.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\Export.ascx.resx" uniqueID="aa16cc43-db98-4cd0-a8d0-8a1da4c7fa70" />
+      <file filePath="admin\Modules\App_LocalResources\Export.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\Export.ascx.zh-CN.resx" uniqueID="feef1649-c646-4498-9c52-e6158739c7cb" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="188" ignoreDuringExportAndImport="False" uniqueID="eca27084-780c-4f93-ba42-25ad5f3250b0">
+      <file filePath="admin\Modules\App_LocalResources\Import.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\Import.ascx.resx" uniqueID="6132c7db-c66b-4476-89fb-6ca115a13811" />
+      <file filePath="admin\Modules\App_LocalResources\Import.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\Import.ascx.zh-CN.resx" uniqueID="0a94c188-1c7e-4187-8337-822439ec86ee" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="189" ignoreDuringExportAndImport="False" uniqueID="97140804-ff32-4601-ac8c-3268a85fa9ac">
+      <file filePath="admin\Modules\App_LocalResources\ModuleLocalization.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\ModuleLocalization.ascx.resx" uniqueID="65aa61a0-b7d7-421c-8890-d2f1957f065f" />
+      <file filePath="admin\Modules\App_LocalResources\ModuleLocalization.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\ModuleLocalization.ascx.zh-CN.resx" uniqueID="4f2f2c93-ef5d-47d6-a881-32c91255c9c6" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="190" ignoreDuringExportAndImport="False" uniqueID="41b1f5c7-7a31-4b25-a971-47446d73f2ba">
+      <file filePath="admin\Modules\App_LocalResources\ModuleSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\ModuleSettings.ascx.resx" uniqueID="67faf1e3-6b4c-4851-b10f-11b1acc2ec32" />
+      <file filePath="admin\Modules\App_LocalResources\ModuleSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\ModuleSettings.ascx.zh-CN.resx" uniqueID="2453fec0-9501-4d07-87e5-451d6e4f0607" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="206" ignoreDuringExportAndImport="False" uniqueID="fcdc82d3-0ed1-4260-81e2-44e53b2f5121">
+      <file filePath="admin\Modules\App_LocalResources\ViewSource.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\ViewSource.ascx.resx" uniqueID="dda4be94-913d-49e5-941b-e63c365b5243" />
+      <file filePath="admin\Modules\App_LocalResources\ViewSource.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Modules\App_LocalResources\ViewSource.ascx.zh-CN.resx" uniqueID="5e92441b-adc3-4ce1-928b-1572289d2f58" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="207" ignoreDuringExportAndImport="False" uniqueID="01a76dca-2b37-40b6-813f-90d0eef706d6">
+      <file filePath="admin\Portal\App_LocalResources\Privacy.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Portal\App_LocalResources\Privacy.ascx.resx" uniqueID="c2dcc9f8-b844-49ef-bda3-a905a75b741a" />
+      <file filePath="admin\Portal\App_LocalResources\Privacy.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Portal\App_LocalResources\Privacy.ascx.zh-CN.resx" uniqueID="1062ef68-3bfe-4ebb-a473-8a3071825134" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="208" ignoreDuringExportAndImport="False" uniqueID="47344b0d-2a89-4cdf-962b-82fdcf10b6c2">
+      <file filePath="admin\Portal\App_LocalResources\Terms.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Portal\App_LocalResources\Terms.ascx.resx" uniqueID="ae1c6b2c-e982-47b6-a2f1-9bc98350d8ef" />
+      <file filePath="admin\Portal\App_LocalResources\Terms.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Portal\App_LocalResources\Terms.ascx.zh-CN.resx" uniqueID="1583b578-2b15-441d-b0e2-f0d7dbb64c13" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="209" ignoreDuringExportAndImport="False" uniqueID="83c178a5-8eba-4e7c-b5c1-63eb6f0de3bc">
+      <file filePath="admin\Security\App_LocalResources\AccessDenied.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Security\App_LocalResources\AccessDenied.ascx.resx" uniqueID="9c22fe7d-26f1-44ac-97aa-93b46b3da39d" />
+      <file filePath="admin\Security\App_LocalResources\AccessDenied.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Security\App_LocalResources\AccessDenied.ascx.zh-CN.resx" uniqueID="7f643389-60a8-4a42-825b-6c92384dba2b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="210" ignoreDuringExportAndImport="False" uniqueID="cff1ba28-3bac-41c1-a092-c37b58592c5b">
+      <file filePath="admin\Security\App_LocalResources\SendPassword.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Security\App_LocalResources\SendPassword.ascx.resx" uniqueID="64bec860-45da-4447-9d1f-8e7f70244e08" />
+      <file filePath="admin\Security\App_LocalResources\SendPassword.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Security\App_LocalResources\SendPassword.ascx.zh-CN.resx" uniqueID="454f9b07-c67d-4c45-9b97-15f7ab489543" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="211" ignoreDuringExportAndImport="False" uniqueID="ece6e98d-6c66-4034-a8a7-937867075ff1">
+      <file filePath="admin\Skins\App_LocalResources\Banner.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Banner.ascx.resx" uniqueID="15d6ecb8-a62a-49a5-a01e-3c4bd24b91b7" />
+      <file filePath="admin\Skins\App_LocalResources\Banner.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Banner.ascx.zh-CN.resx" uniqueID="bb5f01e7-af06-42f2-8c1e-8773e9b6eec6" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="212" ignoreDuringExportAndImport="False" uniqueID="c7884311-0caf-4330-9487-8c7cecf0ab9a">
+      <file filePath="admin\Skins\App_LocalResources\BreadCrumb.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\BreadCrumb.ascx.resx" uniqueID="172034b7-76a7-4e63-a59f-e8f8d58845d4" />
+      <file filePath="admin\Skins\App_LocalResources\BreadCrumb.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\BreadCrumb.ascx.zh-CN.resx" uniqueID="8ef252b3-d08b-4fcc-a995-ddcde9b6353f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="213" ignoreDuringExportAndImport="False" uniqueID="c4c183b8-18dc-4843-8d9b-a98a78e2907c">
+      <file filePath="admin\Skins\App_LocalResources\Copyright.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Copyright.ascx.resx" uniqueID="7f255de3-3b88-49af-9d28-2bc879180baa" />
+      <file filePath="admin\Skins\App_LocalResources\Copyright.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Copyright.ascx.zh-CN.resx" uniqueID="8e72efe1-81f4-4610-a02a-912b63e7d391" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="214" ignoreDuringExportAndImport="False" uniqueID="fa60d497-d696-4837-ba39-07d8d88e7c21">
+      <file filePath="admin\Skins\App_LocalResources\Language.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Language.ascx.resx" uniqueID="424ab8a4-e0e9-48f3-bf71-c6134c8ecf2f" />
+      <file filePath="admin\Skins\App_LocalResources\Language.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Language.ascx.zh-CN.resx" uniqueID="d07c7bd7-966a-4dde-96d6-62385d30e74e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="215" ignoreDuringExportAndImport="False" uniqueID="6aab2659-29e8-4741-a58f-29864d770d38">
+      <file filePath="admin\Skins\App_LocalResources\Login.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Login.ascx.resx" uniqueID="5c52d18d-5985-4258-99c0-68804bc2e257" />
+      <file filePath="admin\Skins\App_LocalResources\Login.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Login.ascx.zh-CN.resx" uniqueID="deeda17b-f275-4e0e-8551-6d3ce3fcec27" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="216" ignoreDuringExportAndImport="False" uniqueID="74967205-e54c-4b31-aecd-85755f1cc778">
+      <file filePath="admin\Skins\App_LocalResources\Privacy.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Privacy.ascx.resx" uniqueID="448bffc3-226f-4efe-883f-faa625c772e8" />
+      <file filePath="admin\Skins\App_LocalResources\Privacy.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Privacy.ascx.zh-CN.resx" uniqueID="4e98cf9f-bf18-425c-9bfd-efd0de300e64" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="217" ignoreDuringExportAndImport="False" uniqueID="d56150f9-9fd9-48d0-b126-e18f6a3655c3">
+      <file filePath="admin\Skins\App_LocalResources\Search.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Search.ascx.resx" uniqueID="dacd977e-5c01-4ecc-974f-488d2318c1a2" />
+      <file filePath="admin\Skins\App_LocalResources\Search.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Search.ascx.zh-CN.resx" uniqueID="f8c6e7b6-b067-4ee6-b3ec-78dbfe466a01" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="218" ignoreDuringExportAndImport="False" uniqueID="4331511f-763b-448f-b53f-61448c942086">
+      <file filePath="admin\Skins\App_LocalResources\Tags.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Tags.ascx.resx" uniqueID="bb75b621-ce16-49c7-91ed-fc2be3d26e44" />
+      <file filePath="admin\Skins\App_LocalResources\Tags.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Tags.ascx.zh-CN.resx" uniqueID="e71263b2-80f8-4aec-b440-1ff54ccc126e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="219" ignoreDuringExportAndImport="False" uniqueID="9a91478a-f83d-4e77-9ad2-4bcfa359cc04">
+      <file filePath="admin\Skins\App_LocalResources\Terms.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Terms.ascx.resx" uniqueID="93c0fbab-d513-407d-ab14-27f77901d039" />
+      <file filePath="admin\Skins\App_LocalResources\Terms.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\Terms.ascx.zh-CN.resx" uniqueID="f36fbb23-c7f9-429c-a63e-c8f43c363bb8" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="220" ignoreDuringExportAndImport="False" uniqueID="291a54e9-0123-4346-ac2d-96efff515831">
+      <file filePath="admin\Skins\App_LocalResources\TreeViewMenu.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\TreeViewMenu.ascx.resx" uniqueID="984686aa-bd80-4ab9-8e4b-3e8c7e25ec75" />
+      <file filePath="admin\Skins\App_LocalResources\TreeViewMenu.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\TreeViewMenu.ascx.zh-CN.resx" uniqueID="b4f9acb6-6e3b-4d1d-afc2-1e86e582b4f7" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="221" ignoreDuringExportAndImport="False" uniqueID="b08506e5-07cc-4a0e-b9a8-b31cfc337e19">
+      <file filePath="admin\Skins\App_LocalResources\User.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\User.ascx.resx" uniqueID="8e7d1dbd-b20f-4980-a94c-cd090a1b851f" />
+      <file filePath="admin\Skins\App_LocalResources\User.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Skins\App_LocalResources\User.ascx.zh-CN.resx" uniqueID="b523dc8a-6fc7-4bc8-a6bf-0fd795707028" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="222" ignoreDuringExportAndImport="False" uniqueID="63d0a1b9-40fa-4ef6-b91a-291dc7e37910">
+      <file filePath="admin\Tabs\App_LocalResources\Export.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Tabs\App_LocalResources\Export.ascx.resx" uniqueID="9f8c6352-e5e6-4ba3-ae9c-2fb3897991be" />
+      <file filePath="admin\Tabs\App_LocalResources\Export.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Tabs\App_LocalResources\Export.ascx.zh-CN.resx" uniqueID="bb7ff97a-90bb-41be-99b3-a12b1a5600b4" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="223" ignoreDuringExportAndImport="False" uniqueID="ee840baa-1286-46b3-9219-c1f2c9c93d29">
+      <file filePath="admin\Tabs\App_LocalResources\Import.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Tabs\App_LocalResources\Import.ascx.resx" uniqueID="61fc8c64-3943-44d8-bf4d-fa80284d42e4" />
+      <file filePath="admin\Tabs\App_LocalResources\Import.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Tabs\App_LocalResources\Import.ascx.zh-CN.resx" uniqueID="3ab207c1-46c9-4734-be3c-41cd8c1cb95d" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="224" ignoreDuringExportAndImport="False" uniqueID="01137d32-d9d3-4000-87da-02ad7cf11ee9">
+      <file filePath="admin\Users\App_LocalResources\ViewProfile.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Users\App_LocalResources\ViewProfile.ascx.resx" uniqueID="429e483d-e38f-4df7-98c9-8ecf9dbafad0" />
+      <file filePath="admin\Users\App_LocalResources\ViewProfile.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\admin\Users\App_LocalResources\ViewProfile.ascx.zh-CN.resx" uniqueID="e1ab1a28-c2d2-4644-be5d-04fd1d533d82" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="225" ignoreDuringExportAndImport="False" uniqueID="5da59389-cb7b-48dd-95ec-0bb9041f96c9">
+      <file filePath="App_GlobalResources\Exceptions.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\App_GlobalResources\Exceptions.resx" uniqueID="bf1d7a2c-028e-448e-ba31-a46d33062ca5" />
+      <file filePath="App_GlobalResources\Exceptions.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\App_GlobalResources\Exceptions.zh-CN.resx" uniqueID="603fefff-a19d-4487-a0ad-082f7298a938" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="226" ignoreDuringExportAndImport="False" uniqueID="4ed3cd2c-e55c-4f9f-9832-e7b0c790b5c1">
+      <file filePath="App_GlobalResources\GlobalResources.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\App_GlobalResources\GlobalResources.resx" uniqueID="5b103a81-cffb-4393-85c8-8dbb64978b16" />
+      <file filePath="App_GlobalResources\GlobalResources.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\App_GlobalResources\GlobalResources.zh-CN.resx" uniqueID="7fd38e78-c77d-475a-ac3c-f506b53f7473" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="227" ignoreDuringExportAndImport="False" uniqueID="ab53e430-3ca7-43be-a727-e5d89436f496">
+      <file filePath="App_GlobalResources\SharedResources.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\App_GlobalResources\SharedResources.resx" uniqueID="e4f9af78-c68b-488b-902c-dc5e47084a7d" />
+      <file filePath="App_GlobalResources\SharedResources.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\App_GlobalResources\SharedResources.zh-CN.resx" uniqueID="f4baa32b-b1f2-42bd-b3b7-c57c5582b842" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="228" ignoreDuringExportAndImport="False" uniqueID="a1122ad9-cc66-4b37-87aa-ebe2dc82f3d7">
+      <file filePath="App_GlobalResources\WebControls.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\App_GlobalResources\WebControls.resx" uniqueID="f38ae827-347e-4969-a8c6-647b8d09f08b" />
+      <file filePath="App_GlobalResources\WebControls.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\App_GlobalResources\WebControls.zh-CN.resx" uniqueID="260c747b-379c-4f7f-8ee2-d8107262d61b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="229" ignoreDuringExportAndImport="False" uniqueID="b2ac42b9-a8c0-41f0-8008-2dd970646f66">
+      <file filePath="controls\App_LocalResources\Address.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\Address.ascx.resx" uniqueID="0517577c-b7d9-40a9-a178-8e9dc1bfc2dd" />
+      <file filePath="controls\App_LocalResources\Address.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\Address.ascx.zh-CN.resx" uniqueID="3172f1b4-64b2-459e-87bd-fa1847254a6c" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="230" ignoreDuringExportAndImport="False" uniqueID="ce3dd973-c1fd-4973-a4dd-598b020d3ca0">
+      <file filePath="controls\App_LocalResources\DualListControl.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\DualListControl.ascx.resx" uniqueID="ca2d3f67-4ff4-418a-a07f-dac079b3105d" />
+      <file filePath="controls\App_LocalResources\DualListControl.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\DualListControl.ascx.zh-CN.resx" uniqueID="47323af0-0a25-4d4e-8c7c-0de79fecced8" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="231" ignoreDuringExportAndImport="False" uniqueID="90c2d840-d802-410f-bcf7-2539c1789a7a">
+      <file filePath="controls\App_LocalResources\Help.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\Help.ascx.resx" uniqueID="d3a60075-28f4-4fdb-bcec-68f11e52add1" />
+      <file filePath="controls\App_LocalResources\Help.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\Help.ascx.zh-CN.resx" uniqueID="8773a052-d5f9-4166-b8e8-a5a407553e62" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="232" ignoreDuringExportAndImport="False" uniqueID="1a1fe078-5d49-4d0a-b7e6-f62349680afb">
+      <file filePath="controls\App_LocalResources\LocaleSelectorControl.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\LocaleSelectorControl.ascx.resx" uniqueID="8eb0501f-fe7a-4bbb-84ed-4d3f75635ec4" />
+      <file filePath="controls\App_LocalResources\LocaleSelectorControl.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\LocaleSelectorControl.ascx.zh-CN.resx" uniqueID="b87048b6-7198-4bf9-90ea-936739b0a001" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="233" ignoreDuringExportAndImport="False" uniqueID="222dbe28-9e33-497a-aa3b-138a1eaced5a">
+      <file filePath="controls\App_LocalResources\ModuleAuditControl.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\ModuleAuditControl.ascx.resx" uniqueID="4d56a995-02da-46b4-aea9-83c26ad8cfd3" />
+      <file filePath="controls\App_LocalResources\ModuleAuditControl.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\ModuleAuditControl.ascx.zh-CN.resx" uniqueID="f428e7e1-dca0-4417-8092-2d1cd616dd0e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="234" ignoreDuringExportAndImport="False" uniqueID="32738c37-6c8d-488b-b860-ef971606eed6">
+      <file filePath="controls\App_LocalResources\SkinControl.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\SkinControl.ascx.resx" uniqueID="b25703fb-d259-450a-bc7d-56f2d5f06af1" />
+      <file filePath="controls\App_LocalResources\SkinControl.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\SkinControl.ascx.zh-CN.resx" uniqueID="c2c2dd97-3145-42c0-b423-41dddf772386" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="235" ignoreDuringExportAndImport="False" uniqueID="b3c34f2b-9764-4d63-a820-8209c7d82b8b">
+      <file filePath="controls\App_LocalResources\TextEditor.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\TextEditor.ascx.resx" uniqueID="4e112b1d-a2da-4d96-bce7-d99b7c816275" />
+      <file filePath="controls\App_LocalResources\TextEditor.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\TextEditor.ascx.zh-CN.resx" uniqueID="5ec95d4a-6b09-4573-86fd-3135d4b164f8" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="236" ignoreDuringExportAndImport="False" uniqueID="1038b255-3042-4f23-863d-6fe39213035c">
+      <file filePath="controls\App_LocalResources\URLControl.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\URLControl.ascx.resx" uniqueID="1848b23b-9573-49b7-84a5-0c8509f710f4" />
+      <file filePath="controls\App_LocalResources\URLControl.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\URLControl.ascx.zh-CN.resx" uniqueID="06caa1ba-fe72-4672-8cc5-ba6f7d2ebb74" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="237" ignoreDuringExportAndImport="False" uniqueID="d356d943-5ff0-43e3-b7a2-d335fbbbdf9f">
+      <file filePath="controls\App_LocalResources\UrlTrackingControl.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\UrlTrackingControl.ascx.resx" uniqueID="255b292b-060a-4d47-8418-cb21850c3308" />
+      <file filePath="controls\App_LocalResources\UrlTrackingControl.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\UrlTrackingControl.ascx.zh-CN.resx" uniqueID="27c52c0d-b6fb-45c3-9912-038741539c72" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="238" ignoreDuringExportAndImport="False" uniqueID="043a8252-aecf-4092-b98c-2708895e8384">
+      <file filePath="controls\App_LocalResources\User.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\User.ascx.resx" uniqueID="410be86b-ecdc-4917-b70b-a371ab3481c5" />
+      <file filePath="controls\App_LocalResources\User.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\controls\App_LocalResources\User.ascx.zh-CN.resx" uniqueID="407f2346-9bd0-421c-aeee-1e9bc7129f7f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="239" ignoreDuringExportAndImport="False" uniqueID="b6553dcb-fee8-4d07-ae43-64ccbb12c112">
+      <file filePath="DesktopModules\Admin\Analytics\App_LocalResources\GoogleAnalyticsSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Analytics\App_LocalResources\GoogleAnalyticsSettings.ascx.resx" uniqueID="4e80fa71-d844-4e57-a0bd-1999e8c87669" />
+      <file filePath="DesktopModules\Admin\Analytics\App_LocalResources\GoogleAnalyticsSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Analytics\App_LocalResources\GoogleAnalyticsSettings.ascx.zh-CN.resx" uniqueID="60a22119-ac13-44e1-928c-cf25d8574531" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="240" ignoreDuringExportAndImport="False" uniqueID="11f70ca1-8519-494f-9d4a-90cd26c2cb53">
+      <file filePath="DesktopModules\Admin\Authentication\App_LocalResources\Authentication.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Authentication\App_LocalResources\Authentication.ascx.resx" uniqueID="e5b352f7-e397-496d-be91-03710b7a5737" />
+      <file filePath="DesktopModules\Admin\Authentication\App_LocalResources\Authentication.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Authentication\App_LocalResources\Authentication.ascx.zh-CN.resx" uniqueID="807c0d0a-66e2-4d73-a2b8-0456e8d3d445" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="241" ignoreDuringExportAndImport="False" uniqueID="99dfa3e4-b40c-49e4-b1ab-c7d90f0046ed">
+      <file filePath="DesktopModules\Admin\Authentication\App_LocalResources\Login.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Authentication\App_LocalResources\Login.ascx.resx" uniqueID="b7587027-f4eb-4e0e-97c6-629c5a928971" />
+      <file filePath="DesktopModules\Admin\Authentication\App_LocalResources\Login.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Authentication\App_LocalResources\Login.ascx.zh-CN.resx" uniqueID="06f63d55-3218-4af6-8d58-2d5f129f9233" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="242" ignoreDuringExportAndImport="False" uniqueID="b3fafa3a-cadd-4838-b7af-664a0a170b19">
+      <file filePath="DesktopModules\Admin\Authentication\App_LocalResources\Logoff.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Authentication\App_LocalResources\Logoff.ascx.resx" uniqueID="d29a1c5d-b95d-4059-aace-0c7d148a0ee7" />
+      <file filePath="DesktopModules\Admin\Authentication\App_LocalResources\Logoff.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Authentication\App_LocalResources\Logoff.ascx.zh-CN.resx" uniqueID="803dc069-c7c2-48eb-9b3c-0fe3b439994c" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="243" ignoreDuringExportAndImport="False" uniqueID="355787c8-3ede-4a85-b70d-2da06b6145ef">
+      <file filePath="DesktopModules\Admin\Banners\App_LocalResources\BannerOptions.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Banners\App_LocalResources\BannerOptions.ascx.resx" uniqueID="e9e2e02c-52c3-40fe-9f6f-c486457d858c" />
+      <file filePath="DesktopModules\Admin\Banners\App_LocalResources\BannerOptions.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Banners\App_LocalResources\BannerOptions.ascx.zh-CN.resx" uniqueID="af803e1c-a29f-486d-a0f6-9aad5dd5bf1f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="244" ignoreDuringExportAndImport="False" uniqueID="71df06eb-c4ed-4182-bc09-084f4cf69799">
+      <file filePath="DesktopModules\Admin\Banners\App_LocalResources\DisplayBanners.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Banners\App_LocalResources\DisplayBanners.ascx.resx" uniqueID="0e250f8d-a181-41d0-a946-58368b7148bf" />
+      <file filePath="DesktopModules\Admin\Banners\App_LocalResources\DisplayBanners.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Banners\App_LocalResources\DisplayBanners.ascx.zh-CN.resx" uniqueID="9fd059f0-ba81-426e-a6e1-4c6e16141738" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="245" ignoreDuringExportAndImport="False" uniqueID="1e8ae7f6-d95e-457f-be97-03b237acaa04">
+      <file filePath="DesktopModules\Admin\Console\App_LocalResources\Settings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Console\App_LocalResources\Settings.ascx.resx" uniqueID="7306a072-6ef6-4b8b-9353-e00a30fcbbd1" />
+      <file filePath="DesktopModules\Admin\Console\App_LocalResources\Settings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Console\App_LocalResources\Settings.ascx.zh-CN.resx" uniqueID="f9afc8c2-c856-4c77-927f-b83661a14652" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="246" ignoreDuringExportAndImport="False" uniqueID="0426e791-c920-4476-9bf5-308cb0ad2780">
+      <file filePath="DesktopModules\Admin\Console\App_LocalResources\ViewConsole.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Console\App_LocalResources\ViewConsole.ascx.resx" uniqueID="5cad604a-e240-4770-85de-cc2c51786491" />
+      <file filePath="DesktopModules\Admin\Console\App_LocalResources\ViewConsole.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Console\App_LocalResources\ViewConsole.ascx.zh-CN.resx" uniqueID="27efc51f-9469-45ef-b185-d1795db55689" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="247" ignoreDuringExportAndImport="False" uniqueID="b0d623d4-33a2-451e-82fc-1db815f12d14">
+      <file filePath="DesktopModules\Admin\ContentList\App_LocalResources\ContentList.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ContentList\App_LocalResources\ContentList.ascx.resx" uniqueID="c75f6ee6-ce94-48be-80e7-2eafa51d893e" />
+      <file filePath="DesktopModules\Admin\ContentList\App_LocalResources\ContentList.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ContentList\App_LocalResources\ContentList.ascx.zh-CN.resx" uniqueID="d80fe119-4a87-4175-b4a3-81f6ce2b14a3" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="248" ignoreDuringExportAndImport="False" uniqueID="431b9fee-b26f-46d8-a0bb-3ad6a3432786">
+      <file filePath="DesktopModules\Admin\Dashboard\App_LocalResources\Dashboard.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\App_LocalResources\Dashboard.ascx.resx" uniqueID="98206df9-bc54-4abd-b6d9-72bcf45ca6ca" />
+      <file filePath="DesktopModules\Admin\Dashboard\App_LocalResources\Dashboard.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\App_LocalResources\Dashboard.ascx.zh-CN.resx" uniqueID="66664feb-c6c7-4219-b0de-683d603a4023" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="249" ignoreDuringExportAndImport="False" uniqueID="2168b233-c9ca-4d94-b4cf-639085321d99">
+      <file filePath="DesktopModules\Admin\Dashboard\App_LocalResources\DashboardControls.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\App_LocalResources\DashboardControls.ascx.resx" uniqueID="8a9f6817-561f-4030-89af-68d46999d328" />
+      <file filePath="DesktopModules\Admin\Dashboard\App_LocalResources\DashboardControls.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\App_LocalResources\DashboardControls.ascx.zh-CN.resx" uniqueID="3608b594-97a5-479a-81c1-a8d8bb239e7c" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="250" ignoreDuringExportAndImport="False" uniqueID="a02ac10b-ae0a-404e-a9a8-8cc5c958cb2a">
+      <file filePath="DesktopModules\Admin\Dashboard\App_LocalResources\Export.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\App_LocalResources\Export.ascx.resx" uniqueID="e487d300-f453-45d4-81e4-4a46449dfff0" />
+      <file filePath="DesktopModules\Admin\Dashboard\App_LocalResources\Export.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\App_LocalResources\Export.ascx.zh-CN.resx" uniqueID="3f06286b-d807-4a44-a4a4-15ccec6771b8" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="251" ignoreDuringExportAndImport="False" uniqueID="5c3742ae-cf31-4f58-b23a-b3e96e7e2883">
+      <file filePath="DesktopModules\Admin\Dashboard\App_LocalResources\SharedResources.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\App_LocalResources\SharedResources.ascx.resx" uniqueID="a376d224-67c4-453d-9d66-e04dc215f5b1" />
+      <file filePath="DesktopModules\Admin\Dashboard\App_LocalResources\SharedResources.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\App_LocalResources\SharedResources.ascx.zh-CN.resx" uniqueID="eb2d6d8a-06da-4fa5-b2f1-34fdabe09a50" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="252" ignoreDuringExportAndImport="False" uniqueID="1eeddd13-20c9-4bca-8fc6-6ae1c9daf9d4">
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Database.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Database.ascx.resx" uniqueID="f544707e-1be5-409d-afb7-4e285a072a1d" />
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Database.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Database.ascx.zh-CN.resx" uniqueID="8bd1ec09-8b1c-4225-a449-4a1a2f4f5b44" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="253" ignoreDuringExportAndImport="False" uniqueID="dbffd4df-aa24-43a4-9bb9-fdb58696ab0c">
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Host.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Host.ascx.resx" uniqueID="c780af99-eec3-4744-a245-df959c498e2a" />
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Host.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Host.ascx.zh-CN.resx" uniqueID="62b4d349-f6dd-46d1-a969-37f4a851178d" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="254" ignoreDuringExportAndImport="False" uniqueID="673091b2-77d7-46af-b1f3-a1afc31c7f0e">
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Modules.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Modules.ascx.resx" uniqueID="e47b3ba6-ff19-4642-9236-376a0ae23711" />
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Modules.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Modules.ascx.zh-CN.resx" uniqueID="c4c9ca52-626a-492f-9deb-43e8ba0c413f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="255" ignoreDuringExportAndImport="False" uniqueID="32873b7d-3a82-49c4-b657-7b178a8f42b5">
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Portals.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Portals.ascx.resx" uniqueID="020d19da-f4b5-417a-aada-6545eabd80e3" />
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Portals.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Portals.ascx.zh-CN.resx" uniqueID="c7034c09-4530-451b-a259-4b88d0bf1e1c" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="256" ignoreDuringExportAndImport="False" uniqueID="da25bd5b-eb84-4d19-a18d-4997f8f3bcc0">
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Server.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Server.ascx.resx" uniqueID="d47e2095-ff38-46c4-bf5f-ff4182fac36f" />
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Server.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Server.ascx.zh-CN.resx" uniqueID="a8be5455-c3a1-4847-aa00-f26084c76acf" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="257" ignoreDuringExportAndImport="False" uniqueID="3e8e12aa-0498-4cfa-9b2c-d7475d004be0">
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Skins.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Skins.ascx.resx" uniqueID="6e72dd04-03e1-437a-a2a4-cdc43866b9c2" />
+      <file filePath="DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Skins.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Dashboard\Modules\App_LocalResources\Skins.ascx.zh-CN.resx" uniqueID="8ecd4bcd-5907-4da4-8e36-95b59db592cf" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="258" ignoreDuringExportAndImport="False" uniqueID="71a1d609-f43f-49c9-84a6-9a1312408574">
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\BatchInstall.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\BatchInstall.ascx.resx" uniqueID="fc4614da-d315-4f5e-831d-60881144ad29" />
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\BatchInstall.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\BatchInstall.ascx.zh-CN.resx" uniqueID="3661d74e-2ffa-4ad7-9d8d-31646c6b6a37" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="259" ignoreDuringExportAndImport="False" uniqueID="61dafe89-1335-4d1a-9f01-9be77c355fc3">
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\EditExtension.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\EditExtension.ascx.resx" uniqueID="6df76088-c7c0-49a4-b024-f00485dea83a" />
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\EditExtension.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\EditExtension.ascx.zh-CN.resx" uniqueID="6cd673a5-ea0b-4d94-a4b9-ee699242f94a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="260" ignoreDuringExportAndImport="False" uniqueID="42bc2800-be70-4dce-9afc-fba6686d46e5">
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\Extensions.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\Extensions.ascx.resx" uniqueID="2f52b4e9-e393-4a87-914b-196347f653cd" />
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\Extensions.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\Extensions.ascx.zh-CN.resx" uniqueID="a80daabe-56b4-4cb8-88ff-b564313bee0d" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="261" ignoreDuringExportAndImport="False" uniqueID="6d63bf77-0e55-4ce2-9a4a-69210640a785">
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\ExtensionWizard.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\ExtensionWizard.ascx.resx" uniqueID="b30bebb7-62ab-434d-929a-c16b08c32a52" />
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\ExtensionWizard.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\ExtensionWizard.ascx.zh-CN.resx" uniqueID="73989646-c263-4569-a107-d5871ca86de2" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="262" ignoreDuringExportAndImport="False" uniqueID="0d926728-7ff3-4a97-83be-35fe5717efbe">
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\Install.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\Install.ascx.resx" uniqueID="aae58ab5-4542-4f88-92d9-d36caa79c484" />
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\Install.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\Install.ascx.zh-CN.resx" uniqueID="026e5415-4228-459d-8a3a-2dbba91f6c7c" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="263" ignoreDuringExportAndImport="False" uniqueID="9bf77a1e-791c-4da9-b903-ce60b2005cf2">
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\PackageWriter.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\PackageWriter.ascx.resx" uniqueID="a78adc14-aa25-4794-938b-8ae3dada7900" />
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\PackageWriter.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\PackageWriter.ascx.zh-CN.resx" uniqueID="b787dec4-f733-4416-8482-fa17bf5cc980" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="264" ignoreDuringExportAndImport="False" uniqueID="e03b4014-877b-4048-a9b4-608e45e33c3b">
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\SharedResources.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\SharedResources.resx" uniqueID="6dcf6537-fe1f-4c8b-a480-e9f285547411" />
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\SharedResources.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\SharedResources.zh-CN.resx" uniqueID="3c5f6ad9-b476-4912-870f-a276244ac68d" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="265" ignoreDuringExportAndImport="False" uniqueID="76b8d3d4-c386-4a80-b1ac-e3bba11b33c7">
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\UnInstall.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\UnInstall.ascx.resx" uniqueID="a92a63b6-a57a-41cf-8062-a87d4fb86e4f" />
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\UnInstall.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\UnInstall.ascx.zh-CN.resx" uniqueID="1b9ebbe8-182f-48bf-9ac6-74efad75cd8f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="266" ignoreDuringExportAndImport="False" uniqueID="d8064ae8-6630-43c2-bebc-74a438c07693">
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\UsageDetails.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\UsageDetails.ascx.resx" uniqueID="16ca7b25-6406-41b8-bf48-6e0242f8cc0c" />
+      <file filePath="DesktopModules\Admin\Extensions\App_LocalResources\UsageDetails.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\App_LocalResources\UsageDetails.ascx.zh-CN.resx" uniqueID="7b660006-e488-49c8-adbf-91c06af5360e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="267" ignoreDuringExportAndImport="False" uniqueID="bc5dcba7-5aa2-44d8-9919-4762531c5074">
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\AuthenticationEditor.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\AuthenticationEditor.ascx.resx" uniqueID="1ddee64a-9a9b-4fbf-9c51-241c4c8d2ad4" />
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\AuthenticationEditor.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\AuthenticationEditor.ascx.zh-CN.resx" uniqueID="87291c1f-4576-49ac-9457-26b000758b32" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="268" ignoreDuringExportAndImport="False" uniqueID="663a0112-9051-4029-b157-3cfe63fe65c9">
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\EditModuleControl.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\EditModuleControl.ascx.resx" uniqueID="436af5a4-db15-432c-b550-e9be51e66328" />
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\EditModuleControl.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\EditModuleControl.ascx.zh-CN.resx" uniqueID="54ba99b9-1223-430f-af21-918fa7162b89" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="269" ignoreDuringExportAndImport="False" uniqueID="19613358-ec4b-4f62-8819-c808ebd4f3dd">
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\EditModuleDefinition.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\EditModuleDefinition.ascx.resx" uniqueID="98142c48-d387-45ff-b8dd-c405c1ccf5e6" />
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\EditModuleDefinition.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\EditModuleDefinition.ascx.zh-CN.resx" uniqueID="9ef93cde-582e-4c5c-81db-fabb7c54f7f0" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="270" ignoreDuringExportAndImport="False" uniqueID="0e5b0970-71c4-4cd9-b673-7b7358e81f04">
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\LanguagePackEditor.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\LanguagePackEditor.ascx.resx" uniqueID="5d82c575-cfe5-4e14-95cb-59782934cf8a" />
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\LanguagePackEditor.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\LanguagePackEditor.ascx.zh-CN.resx" uniqueID="4dd515e4-0f73-41da-b9d0-31a369eae24f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="271" ignoreDuringExportAndImport="False" uniqueID="dd813a12-0c50-49d7-92b7-932becb24574">
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\ModuleEditor.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\ModuleEditor.ascx.resx" uniqueID="da897793-b9db-4bff-b438-ff2a4222cbc6" />
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\ModuleEditor.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\ModuleEditor.ascx.zh-CN.resx" uniqueID="2ed3ff9e-d717-48ed-b671-63adf263b44c" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="272" ignoreDuringExportAndImport="False" uniqueID="278f042a-cdb8-4479-ab7e-23a9ef1f68e8">
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\SkinEditor.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\SkinEditor.ascx.resx" uniqueID="3ebf0b22-ee5d-4125-b26f-9e45b571c028" />
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\SkinEditor.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\SkinEditor.ascx.zh-CN.resx" uniqueID="ff6001cf-a40c-491f-a492-9b311fc81f64" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="273" ignoreDuringExportAndImport="False" uniqueID="61b2d8a6-4c80-417e-b2de-d8cc8af59696">
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\SkinObjectEditor.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\SkinObjectEditor.ascx.resx" uniqueID="0a2da9c7-72b3-40c3-acce-a8075e6c5fd4" />
+      <file filePath="DesktopModules\Admin\Extensions\Editors\App_LocalResources\SkinObjectEditor.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Extensions\Editors\App_LocalResources\SkinObjectEditor.ascx.zh-CN.resx" uniqueID="88bc4a26-ca51-4ec1-8301-0f6d8447bf0b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="274" ignoreDuringExportAndImport="False" uniqueID="3e746602-0efb-47ea-9fd0-2983fdab6840">
+      <file filePath="DesktopModules\Admin\FeedExplorer\App_LocalResources\FeedExplorer.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FeedExplorer\App_LocalResources\FeedExplorer.ascx.resx" uniqueID="05359f06-5bb1-41ca-816b-4be1914f9102" />
+      <file filePath="DesktopModules\Admin\FeedExplorer\App_LocalResources\FeedExplorer.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FeedExplorer\App_LocalResources\FeedExplorer.ascx.zh-CN.resx" uniqueID="4aeab4e8-ced8-4119-b8a9-397ec89fb19a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="275" ignoreDuringExportAndImport="False" uniqueID="09976dbd-c119-42ac-9984-20666f6325c1">
+      <file filePath="DesktopModules\Admin\FeedExplorer\App_LocalResources\FeedExplorerSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FeedExplorer\App_LocalResources\FeedExplorerSettings.ascx.resx" uniqueID="48b1c83e-e212-41b9-a933-8fff8e948dc0" />
+      <file filePath="DesktopModules\Admin\FeedExplorer\App_LocalResources\FeedExplorerSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FeedExplorer\App_LocalResources\FeedExplorerSettings.ascx.zh-CN.resx" uniqueID="cf9f10d3-38ac-456f-a387-7130ef6ae4c7" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="276" ignoreDuringExportAndImport="False" uniqueID="72fa8537-534d-44ac-a47b-10c3e88a11d0">
+      <file filePath="DesktopModules\Admin\FileManager\App_LocalResources\EditFolderMapping.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FileManager\App_LocalResources\EditFolderMapping.ascx.resx" uniqueID="f403e128-103c-4810-b0e2-01ebacd13f31" />
+      <file filePath="DesktopModules\Admin\FileManager\App_LocalResources\EditFolderMapping.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FileManager\App_LocalResources\EditFolderMapping.ascx.zh-CN.resx" uniqueID="5a18b353-9bd3-42e8-8e27-c2a55734fa6a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="277" ignoreDuringExportAndImport="False" uniqueID="f8e632fd-3b14-4705-9418-449ce62010f9">
+      <file filePath="DesktopModules\Admin\FileManager\App_LocalResources\FileManager.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FileManager\App_LocalResources\FileManager.ascx.resx" uniqueID="f279f942-35d8-488a-bbd3-3f39502b7290" />
+      <file filePath="DesktopModules\Admin\FileManager\App_LocalResources\FileManager.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FileManager\App_LocalResources\FileManager.ascx.zh-CN.resx" uniqueID="29733af6-f10c-487f-93e4-aa6d369475b1" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="278" ignoreDuringExportAndImport="False" uniqueID="c670c497-830d-460f-8941-70beb40094eb">
+      <file filePath="DesktopModules\Admin\FileManager\App_LocalResources\FolderMappings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FileManager\App_LocalResources\FolderMappings.ascx.resx" uniqueID="d2d59272-00d9-4adb-a248-7c96b9f6579b" />
+      <file filePath="DesktopModules\Admin\FileManager\App_LocalResources\FolderMappings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FileManager\App_LocalResources\FolderMappings.ascx.zh-CN.resx" uniqueID="669de2fd-ce1b-4503-aa25-c7feb393afd7" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="279" ignoreDuringExportAndImport="False" uniqueID="d3f1b518-9dbe-468a-803a-90fb18d283ca">
+      <file filePath="DesktopModules\Admin\FileManager\App_LocalResources\WebUpload.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FileManager\App_LocalResources\WebUpload.ascx.resx" uniqueID="621c5962-b9ac-4bdc-868d-4be621ae77e1" />
+      <file filePath="DesktopModules\Admin\FileManager\App_LocalResources\WebUpload.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\FileManager\App_LocalResources\WebUpload.ascx.zh-CN.resx" uniqueID="6bcd2e6f-5e9f-4fa7-9b7a-de6b0384d6c9" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="280" ignoreDuringExportAndImport="False" uniqueID="c0ad3cbd-507e-4f65-9748-3d6b03fc602e">
+      <file filePath="DesktopModules\Admin\HostSettings\App_LocalResources\FriendlyUrls.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\HostSettings\App_LocalResources\FriendlyUrls.ascx.resx" uniqueID="22d0dcd1-630a-4591-855c-af499b171801" />
+      <file filePath="DesktopModules\Admin\HostSettings\App_LocalResources\FriendlyUrls.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\HostSettings\App_LocalResources\FriendlyUrls.ascx.zh-CN.resx" uniqueID="694ce5b2-b81f-4532-bf74-a8532e9f052a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="281" ignoreDuringExportAndImport="False" uniqueID="f64e5935-5f38-430b-910c-2d72ae52ecd4">
+      <file filePath="DesktopModules\Admin\HostSettings\App_LocalResources\HostSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\HostSettings\App_LocalResources\HostSettings.ascx.resx" uniqueID="ce031ba0-9add-41ca-932b-bc79ae63e2b2" />
+      <file filePath="DesktopModules\Admin\HostSettings\App_LocalResources\HostSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\HostSettings\App_LocalResources\HostSettings.ascx.zh-CN.resx" uniqueID="a1cb475b-e29e-467c-a12e-a793b68705e7" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="282" ignoreDuringExportAndImport="False" uniqueID="c9b63ac9-b01e-4e64-86d5-dac16992638c">
+      <file filePath="DesktopModules\Admin\HostSettings\App_LocalResources\RequestFilters.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\HostSettings\App_LocalResources\RequestFilters.ascx.resx" uniqueID="7901873c-7d4d-4a33-9107-05ba20cba2b4" />
+      <file filePath="DesktopModules\Admin\HostSettings\App_LocalResources\RequestFilters.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\HostSettings\App_LocalResources\RequestFilters.ascx.zh-CN.resx" uniqueID="935659af-3426-4ccc-a712-4c4361abeca3" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="283" ignoreDuringExportAndImport="False" uniqueID="82332486-0782-4c66-87cd-e364946c793d">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\EditLanguage.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\EditLanguage.ascx.resx" uniqueID="6d492fc5-8d4b-45c0-9d35-f205ae15f0c0" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\EditLanguage.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\EditLanguage.ascx.zh-CN.resx" uniqueID="e98ca7d0-a8dc-4b41-adf3-b103c11c5a20" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="284" ignoreDuringExportAndImport="False" uniqueID="b3973115-b6da-4641-a2c0-5354b58eca0a">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\EnableLocalizedContent.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\EnableLocalizedContent.ascx.resx" uniqueID="8f220770-a0a6-42c0-825b-81d858019ddc" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\EnableLocalizedContent.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\EnableLocalizedContent.ascx.zh-CN.resx" uniqueID="52b9228f-cf51-49c9-b711-2e2cd286daaa" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="285" ignoreDuringExportAndImport="False" uniqueID="34af20e5-a460-482a-a21f-cfbd08796a68">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguageEditor.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguageEditor.ascx.resx" uniqueID="3f56ab68-0d97-4dbc-b9a7-e1c9f4cedb8d" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguageEditor.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguageEditor.ascx.zh-CN.resx" uniqueID="44d8c2c2-0d5f-4566-a956-bdd9b5cba2a2" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="286" ignoreDuringExportAndImport="False" uniqueID="0d626b86-28b5-425e-b6c3-8205a5ea78c8">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguageEditorExt.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguageEditorExt.ascx.resx" uniqueID="d0470a44-a322-4a77-8fcd-2ca78aab3fc4" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguageEditorExt.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguageEditorExt.ascx.zh-CN.resx" uniqueID="c21abb7e-1872-49a8-9da1-1260e028a9e3" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="287" ignoreDuringExportAndImport="False" uniqueID="91278976-0495-496f-b02b-7dfd27f87e8d">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguageEnabler.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguageEnabler.ascx.resx" uniqueID="08e36bb1-3bec-4636-a622-e1ae793fb5a0" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguageEnabler.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguageEnabler.ascx.zh-CN.resx" uniqueID="fa7a647b-812e-4e9e-82a0-744f55c20a68" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="288" ignoreDuringExportAndImport="False" uniqueID="cc8cc438-78ae-4f0c-af1e-dd2f5434010a">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguagePackWriter.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguagePackWriter.ascx.resx" uniqueID="54a649a9-aad5-48fe-b990-3bdb4d353e12" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguagePackWriter.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguagePackWriter.ascx.zh-CN.resx" uniqueID="b57b3e93-ec8b-4d68-ad5d-7ae01db63f31" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="289" ignoreDuringExportAndImport="False" uniqueID="3d872d61-4e7f-4eab-9c3f-1f3ac0534c89">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguageSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguageSettings.ascx.resx" uniqueID="21743769-0c67-4116-b228-90c62a42f081" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LanguageSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LanguageSettings.ascx.zh-CN.resx" uniqueID="9ec67557-536f-4de6-9955-340a0265dc07" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="290" ignoreDuringExportAndImport="False" uniqueID="6ed9fb78-6dbf-4f7d-b986-94a8d7b8c496">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LocalizePages.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LocalizePages.ascx.resx" uniqueID="aa04f3e2-559d-4295-bed4-c6416b12ab11" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\LocalizePages.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\LocalizePages.ascx.zh-CN.resx" uniqueID="c515f0e6-743c-4493-bc4b-a2f29e04d8e3" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="291" ignoreDuringExportAndImport="False" uniqueID="cd7c7524-951e-42b4-897c-7c079d347f60">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\ResourceVerifier.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\ResourceVerifier.ascx.resx" uniqueID="306db609-1b6b-4833-bb6c-bbdcd0d8e1f4" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\ResourceVerifier.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\ResourceVerifier.ascx.zh-CN.resx" uniqueID="2ca6ca65-11e7-4ab9-a82b-89d41193d0c2" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="292" ignoreDuringExportAndImport="False" uniqueID="88fc11ea-6a93-4228-84b2-417155f118eb">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\SharedResources.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\SharedResources.resx" uniqueID="f175e0ac-1ca4-497f-95e1-3c2e7e2ff0ce" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\SharedResources.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\SharedResources.zh-CN.resx" uniqueID="cd8da35b-4ee9-4f19-87fe-29a328f3cdca" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="293" ignoreDuringExportAndImport="False" uniqueID="6eb1898a-0ca5-40e3-842a-b6a08b2fef89">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\TimeZoneEditor.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\TimeZoneEditor.ascx.resx" uniqueID="a97ec7a9-ff49-4bf3-9da3-17b2c2620bc0" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\TimeZoneEditor.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\TimeZoneEditor.ascx.zh-CN.resx" uniqueID="53b91c93-8050-400b-9e49-abf13cea1587" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="294" ignoreDuringExportAndImport="False" uniqueID="27e09e34-61da-40ac-911c-7599a1bc0fa7">
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\TranslationStatus.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\TranslationStatus.ascx.resx" uniqueID="a715c0c6-636e-478b-9c43-e3d4dddff2ea" />
+      <file filePath="DesktopModules\Admin\Languages\App_LocalResources\TranslationStatus.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Languages\App_LocalResources\TranslationStatus.ascx.zh-CN.resx" uniqueID="7dc373a2-40e3-4966-baa2-34a9d4b52e32" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="295" ignoreDuringExportAndImport="False" uniqueID="7d24bc68-6073-45b1-bb5c-197f849a29ec">
+      <file filePath="DesktopModules\Admin\Lists\App_LocalResources\ListEditor.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Lists\App_LocalResources\ListEditor.ascx.resx" uniqueID="311158e7-9cdb-4fe5-95b7-7bd0ec6e1101" />
+      <file filePath="DesktopModules\Admin\Lists\App_LocalResources\ListEditor.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Lists\App_LocalResources\ListEditor.ascx.zh-CN.resx" uniqueID="002c6805-38bf-4a02-94b1-55864b91c07e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="296" ignoreDuringExportAndImport="False" uniqueID="0a2a2238-1abc-4f74-b005-75555065362c">
+      <file filePath="DesktopModules\Admin\Lists\App_LocalResources\ListEntries.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Lists\App_LocalResources\ListEntries.ascx.resx" uniqueID="9365f7fc-413b-4ae9-900b-c29ee56ff07c" />
+      <file filePath="DesktopModules\Admin\Lists\App_LocalResources\ListEntries.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Lists\App_LocalResources\ListEntries.ascx.zh-CN.resx" uniqueID="5429860a-626c-46ee-a63f-961bb55b190a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="297" ignoreDuringExportAndImport="False" uniqueID="a9372873-4af3-455e-baa6-8b7e8469dfba">
+      <file filePath="DesktopModules\Admin\LogViewer\App_LocalResources\EditLogTypes.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\LogViewer\App_LocalResources\EditLogTypes.ascx.resx" uniqueID="780f962a-d221-4935-acd4-5e0be34783d7" />
+      <file filePath="DesktopModules\Admin\LogViewer\App_LocalResources\EditLogTypes.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\LogViewer\App_LocalResources\EditLogTypes.ascx.zh-CN.resx" uniqueID="fd097b17-b389-418b-baf6-0bab626d9ac1" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="298" ignoreDuringExportAndImport="False" uniqueID="e5987a4f-78d7-4673-81da-20e9269d4227">
+      <file filePath="DesktopModules\Admin\LogViewer\App_LocalResources\LogViewer.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\LogViewer\App_LocalResources\LogViewer.ascx.resx" uniqueID="04d2f0a3-51d2-4a1c-831d-9124f8156b4e" />
+      <file filePath="DesktopModules\Admin\LogViewer\App_LocalResources\LogViewer.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\LogViewer\App_LocalResources\LogViewer.ascx.zh-CN.resx" uniqueID="f4c71885-876e-4592-88c1-399a546b740a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="299" ignoreDuringExportAndImport="False" uniqueID="196f674c-9e44-4172-8353-388fdf595b9e">
+      <file filePath="DesktopModules\Admin\Marketplace\App_LocalResources\Marketplace.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Marketplace\App_LocalResources\Marketplace.ascx.resx" uniqueID="a1372872-12c4-4c95-875d-f3c8662bf8f3" />
+      <file filePath="DesktopModules\Admin\Marketplace\App_LocalResources\Marketplace.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Marketplace\App_LocalResources\Marketplace.ascx.zh-CN.resx" uniqueID="65af8965-32e0-4fac-b401-1df1e62cbe6f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="300" ignoreDuringExportAndImport="False" uniqueID="766e822d-7292-4d4c-8242-c13d6a853100">
+      <file filePath="DesktopModules\Admin\Messaging\App_LocalResources\EditMessage.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Messaging\App_LocalResources\EditMessage.ascx.resx" uniqueID="b7fdb2e9-2fab-40bc-8986-58e828e8ddef" />
+      <file filePath="DesktopModules\Admin\Messaging\App_LocalResources\EditMessage.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Messaging\App_LocalResources\EditMessage.ascx.zh-CN.resx" uniqueID="8f030475-2b61-4ded-8ef8-7379a2543e95" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="301" ignoreDuringExportAndImport="False" uniqueID="91e3e7f1-0a95-4e04-9b0f-c10835d370f2">
+      <file filePath="DesktopModules\Admin\Messaging\App_LocalResources\MessageList.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Messaging\App_LocalResources\MessageList.ascx.resx" uniqueID="4bb25da8-abbf-44cb-aa0a-d1c51e8dfc17" />
+      <file filePath="DesktopModules\Admin\Messaging\App_LocalResources\MessageList.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Messaging\App_LocalResources\MessageList.ascx.zh-CN.resx" uniqueID="58e2590e-305e-4b47-bb79-85ded2374963" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="302" ignoreDuringExportAndImport="False" uniqueID="785c36d4-d164-4514-9b92-177f23337241">
+      <file filePath="DesktopModules\Admin\Messaging\App_LocalResources\SharedResources.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Messaging\App_LocalResources\SharedResources.resx" uniqueID="f9ca85d2-1e82-4f3e-b2d6-2726bf4d1d16" />
+      <file filePath="DesktopModules\Admin\Messaging\App_LocalResources\SharedResources.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Messaging\App_LocalResources\SharedResources.zh-CN.resx" uniqueID="fee2b84c-6862-4403-93c1-06b4a8684788" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="303" ignoreDuringExportAndImport="False" uniqueID="492ec90f-885d-4a46-92d6-abf1323146a1">
+      <file filePath="DesktopModules\Admin\Messaging\App_LocalResources\ViewMessage.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Messaging\App_LocalResources\ViewMessage.ascx.resx" uniqueID="b9da755c-bdc6-44e2-8957-d399dbea88e2" />
+      <file filePath="DesktopModules\Admin\Messaging\App_LocalResources\ViewMessage.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Messaging\App_LocalResources\ViewMessage.ascx.zh-CN.resx" uniqueID="63191634-b1e7-4720-b274-ebd16fbfaaf5" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="304" ignoreDuringExportAndImport="False" uniqueID="f4ccc276-c272-4e95-b709-943d65c8b866">
+      <file filePath="DesktopModules\Admin\Newsletters\App_LocalResources\Newsletter.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Newsletters\App_LocalResources\Newsletter.ascx.resx" uniqueID="890d323c-32f4-4760-b220-d526ffdb26c3" />
+      <file filePath="DesktopModules\Admin\Newsletters\App_LocalResources\Newsletter.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Newsletters\App_LocalResources\Newsletter.ascx.zh-CN.resx" uniqueID="efca2b3f-4a44-4b91-9e75-5663cdf59281" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="305" ignoreDuringExportAndImport="False" uniqueID="111ff75b-d1a2-4a60-85f0-37e4bf63a004">
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\PortalAliases.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\PortalAliases.ascx.resx" uniqueID="cbe1ac56-8b4e-49a6-b0fc-64108b234ef6" />
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\PortalAliases.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\PortalAliases.ascx.zh-CN.resx" uniqueID="778034f7-34bf-4744-9f33-080aad53fff1" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="306" ignoreDuringExportAndImport="False" uniqueID="71d16304-93b8-4218-9ea3-26fd6d84eba7">
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\Portals.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\Portals.ascx.resx" uniqueID="25b0250e-5166-4c4c-9002-8e52f04e2327" />
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\Portals.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\Portals.ascx.zh-CN.resx" uniqueID="78515e09-6883-4f6b-8567-f97d6a20121f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="307" ignoreDuringExportAndImport="False" uniqueID="29abd3f0-b44b-46b2-90cd-0a6a43f8dd3b">
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\Signup.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\Signup.ascx.resx" uniqueID="1c17c766-2423-4e31-ad95-d78964b2f5f7" />
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\Signup.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\Signup.ascx.zh-CN.resx" uniqueID="6df30024-3188-4e38-83bc-cdbd3e86965f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="308" ignoreDuringExportAndImport="False" uniqueID="92a4834f-7be3-4413-a084-dcd681131f5f">
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\SiteSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\SiteSettings.ascx.resx" uniqueID="7974d495-489c-461b-af66-5d497a5ea57a" />
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\SiteSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\SiteSettings.ascx.zh-CN.resx" uniqueID="98be8576-5072-41f5-bdde-77dd986db7d0" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="309" ignoreDuringExportAndImport="False" uniqueID="5e492ba6-943b-4f01-9649-79a18d901286">
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\template.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\template.ascx.resx" uniqueID="37152c49-7501-4a06-a8f6-9cb6081f5728" />
+      <file filePath="DesktopModules\Admin\Portals\App_LocalResources\template.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Portals\App_LocalResources\template.ascx.zh-CN.resx" uniqueID="62906cd1-a897-447f-a1ab-0ce3ea226c26" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="310" ignoreDuringExportAndImport="False" uniqueID="d5dfd97a-1e37-4c95-909e-661828a40772">
+      <file filePath="DesktopModules\Admin\ProfessionalPreview\App_LocalResources\ProfessionalPreview.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ProfessionalPreview\App_LocalResources\ProfessionalPreview.ascx.resx" uniqueID="2f804516-6f0a-48ee-9717-c30654f9c979" />
+      <file filePath="DesktopModules\Admin\ProfessionalPreview\App_LocalResources\ProfessionalPreview.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ProfessionalPreview\App_LocalResources\ProfessionalPreview.ascx.zh-CN.resx" uniqueID="32fdca82-482a-45b8-995c-72a5645d443d" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="311" ignoreDuringExportAndImport="False" uniqueID="4134b22f-dca3-4f71-85f8-b1ed656ca2fe">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\FileManager.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\FileManager.resx" uniqueID="09162da5-7806-4278-8c47-6c998b32f9a5" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\FileManager.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\FileManager.zh-CN.resx" uniqueID="01a0b88a-ea3b-4e58-b9d0-c20ee7475f5e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="312" ignoreDuringExportAndImport="False" uniqueID="816f511a-0262-4b18-9a42-d77c44227e5a">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\ProviderConfig.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\ProviderConfig.ascx.resx" uniqueID="a605ade3-2085-4ee9-973c-52fb5a45b5ff" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\ProviderConfig.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\ProviderConfig.ascx.zh-CN.resx" uniqueID="2017ddef-ce27-45f1-ad02-e28860139004" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="313" ignoreDuringExportAndImport="False" uniqueID="13b71093-3ffa-4e90-9ac0-b1b9af36510a">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Dialogs.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Dialogs.resx" uniqueID="b11fb7ed-af81-4024-977b-a72bab24a0cd" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Dialogs.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Dialogs.zh-CN.resx" uniqueID="a7b18e51-ab46-48d6-b3dc-77c99928e311" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="314" ignoreDuringExportAndImport="False" uniqueID="97e90e6f-ed6d-49e2-908f-898c800c3d5e">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Main.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Main.resx" uniqueID="6610325e-59a6-4bd7-9d9f-7ddb8369d2bc" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Main.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Main.zh-CN.resx" uniqueID="16e27ab2-8832-4a6f-97dd-8a3ab3bf1bbd" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="315" ignoreDuringExportAndImport="False" uniqueID="81121566-9b54-4071-a218-bd84ace2193b">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Modules.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Modules.resx" uniqueID="088768ef-f2b8-4cc4-b395-746694948b12" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Modules.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Modules.zh-CN.resx" uniqueID="054c086d-e3e0-488b-863a-76a34a836a49" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="316" ignoreDuringExportAndImport="False" uniqueID="800244b2-2224-4388-952e-a99de7a0f048">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Tools.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Tools.resx" uniqueID="50c345cb-7868-444d-a121-df2dbdc7b863" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Tools.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadEditor.Tools.zh-CN.resx" uniqueID="5acbd6df-d21d-4922-807f-d6e97f2218e2" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="317" ignoreDuringExportAndImport="False" uniqueID="7af8d391-c10f-4f84-8205-4f41330a0f19">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadListBox.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadListBox.resx" uniqueID="85ce7991-0dea-4d95-bb7f-8c65d6ce1704" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadListBox.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadListBox.zh-CN.resx" uniqueID="4de413fd-2d56-4eb4-9d0d-f0e3a8c3538b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="318" ignoreDuringExportAndImport="False" uniqueID="0cbf6e11-fc7c-4fb4-967a-849994e475a5">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadProgressArea.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadProgressArea.resx" uniqueID="f7ebe4f2-1b20-43a6-afd9-ba14c7a917ff" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadProgressArea.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadProgressArea.zh-CN.resx" uniqueID="0807f331-e36c-491e-830a-83bbdbea11d1" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="319" ignoreDuringExportAndImport="False" uniqueID="8c6407d6-5f71-4c0f-8800-c521c6d784eb">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadScheduler.Main.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadScheduler.Main.resx" uniqueID="7422198a-6269-43ed-93de-4c18bf202bb3" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadScheduler.Main.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadScheduler.Main.zh-CN.resx" uniqueID="b0e69dd1-7c9a-4c78-ab05-51b716ceb469" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="320" ignoreDuringExportAndImport="False" uniqueID="b132984b-4398-480e-aaed-8275afa2bd8b">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadSpell.Dialog.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadSpell.Dialog.resx" uniqueID="10ed5b47-277d-4333-9d8d-89a552fa3705" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadSpell.Dialog.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadSpell.Dialog.zh-CN.resx" uniqueID="b5563cdb-3c21-4e07-9362-f0bc4b3a55db" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="321" ignoreDuringExportAndImport="False" uniqueID="ac896b95-87ae-4a9a-ba04-ef174610c068">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadUpload.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadUpload.resx" uniqueID="ce10eca4-d600-48e6-b3b8-6df326bdd15f" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadUpload.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\App_LocalResources\RadUpload.zh-CN.resx" uniqueID="7e9c9a7c-497c-4054-b9cc-24b05fe8dea6" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="322" ignoreDuringExportAndImport="False" uniqueID="54baea3f-211f-48c7-8585-754051a58b85">
+      <file filePath="DesktopModules\Admin\RadEditorProvider\Dialogs\App_LocalResources\SaveTemplate.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\Dialogs\App_LocalResources\SaveTemplate.resx" uniqueID="33467e7e-6c3f-48c2-8f57-7b7c0ee74c64" />
+      <file filePath="DesktopModules\Admin\RadEditorProvider\Dialogs\App_LocalResources\SaveTemplate.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RadEditorProvider\Dialogs\App_LocalResources\SaveTemplate.zh-CN.resx" uniqueID="8cd464bc-f2c7-40d4-a935-56128ce12b64" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="323" ignoreDuringExportAndImport="False" uniqueID="ca1da2d8-eead-4589-ae3c-58202e7b5780">
+      <file filePath="DesktopModules\Admin\RecycleBin\App_LocalResources\RecycleBin.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RecycleBin\App_LocalResources\RecycleBin.ascx.resx" uniqueID="32f58d57-f7dd-4f1d-8159-be814806745b" />
+      <file filePath="DesktopModules\Admin\RecycleBin\App_LocalResources\RecycleBin.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\RecycleBin\App_LocalResources\RecycleBin.ascx.zh-CN.resx" uniqueID="54c6e610-101f-4f6d-a0dc-f4e69aef7284" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="324" ignoreDuringExportAndImport="False" uniqueID="b4d27f40-f4a5-4ec3-b4e8-08b80b51e801">
+      <file filePath="DesktopModules\Admin\Scheduler\App_LocalResources\EditSchedule.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Scheduler\App_LocalResources\EditSchedule.ascx.resx" uniqueID="ef1c700b-3501-439d-9d4e-22c229214191" />
+      <file filePath="DesktopModules\Admin\Scheduler\App_LocalResources\EditSchedule.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Scheduler\App_LocalResources\EditSchedule.ascx.zh-CN.resx" uniqueID="c3f0a1e0-fbfb-4b0c-98d6-b04cca613607" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="325" ignoreDuringExportAndImport="False" uniqueID="8be4084e-a173-4a05-aed7-7421ecaf8c4b">
+      <file filePath="DesktopModules\Admin\Scheduler\App_LocalResources\ViewSchedule.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Scheduler\App_LocalResources\ViewSchedule.ascx.resx" uniqueID="23aa39b2-2e97-4cd7-9725-656409489189" />
+      <file filePath="DesktopModules\Admin\Scheduler\App_LocalResources\ViewSchedule.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Scheduler\App_LocalResources\ViewSchedule.ascx.zh-CN.resx" uniqueID="46ae0a21-8b23-44e5-a1cd-6c9d8f6f5888" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="326" ignoreDuringExportAndImport="False" uniqueID="8e4fcc7b-0032-493b-8e38-6bcd615b2028">
+      <file filePath="DesktopModules\Admin\Scheduler\App_LocalResources\ViewScheduleHistory.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Scheduler\App_LocalResources\ViewScheduleHistory.ascx.resx" uniqueID="d86e4484-67d2-4870-a7ec-4ba2d9d3dce2" />
+      <file filePath="DesktopModules\Admin\Scheduler\App_LocalResources\ViewScheduleHistory.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Scheduler\App_LocalResources\ViewScheduleHistory.ascx.zh-CN.resx" uniqueID="fd924713-5ff3-4ef1-b72e-f60d51c5c588" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="327" ignoreDuringExportAndImport="False" uniqueID="486dc403-8d50-4682-bf8f-70cd063bd377">
+      <file filePath="DesktopModules\Admin\Scheduler\App_LocalResources\ViewScheduleStatus.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Scheduler\App_LocalResources\ViewScheduleStatus.ascx.resx" uniqueID="a1d552d2-fae6-48d5-9530-502db090df45" />
+      <file filePath="DesktopModules\Admin\Scheduler\App_LocalResources\ViewScheduleStatus.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Scheduler\App_LocalResources\ViewScheduleStatus.ascx.zh-CN.resx" uniqueID="dac87415-32a8-4fff-9cd7-7a5118f688e5" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="328" ignoreDuringExportAndImport="False" uniqueID="2079c3fa-d9ff-4ee3-8d52-ac51836c6878">
+      <file filePath="DesktopModules\Admin\SearchAdmin\App_LocalResources\SearchAdmin.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchAdmin\App_LocalResources\SearchAdmin.ascx.resx" uniqueID="79f6d4eb-bd23-48d9-924f-a44209921596" />
+      <file filePath="DesktopModules\Admin\SearchAdmin\App_LocalResources\SearchAdmin.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchAdmin\App_LocalResources\SearchAdmin.ascx.zh-CN.resx" uniqueID="c5193b6e-6305-43b4-821e-9eafc005d5c4" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="329" ignoreDuringExportAndImport="False" uniqueID="116c9227-233d-42e0-862a-e8b82b100410">
+      <file filePath="DesktopModules\Admin\SearchInput\App_LocalResources\InputSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchInput\App_LocalResources\InputSettings.ascx.resx" uniqueID="42e9ed32-47f6-4281-8e30-92159e7702c0" />
+      <file filePath="DesktopModules\Admin\SearchInput\App_LocalResources\InputSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchInput\App_LocalResources\InputSettings.ascx.zh-CN.resx" uniqueID="b1865d2a-2466-4c1d-89b3-616eeafb150a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="330" ignoreDuringExportAndImport="False" uniqueID="9e8515b3-874e-4c06-8406-5ada1366d8ef">
+      <file filePath="DesktopModules\Admin\SearchInput\App_LocalResources\SearchInput.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchInput\App_LocalResources\SearchInput.ascx.resx" uniqueID="6e559580-d13b-470b-8a8d-ee1c3ac1e1a3" />
+      <file filePath="DesktopModules\Admin\SearchInput\App_LocalResources\SearchInput.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchInput\App_LocalResources\SearchInput.ascx.zh-CN.resx" uniqueID="0685209b-a1bd-4c37-a266-a2ff46c346aa" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="331" ignoreDuringExportAndImport="False" uniqueID="a3845645-eca6-4507-bfdf-ae159f95c759">
+      <file filePath="DesktopModules\Admin\SearchResults\App_LocalResources\ResultsSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchResults\App_LocalResources\ResultsSettings.ascx.resx" uniqueID="9be3662e-868d-41d9-b04b-3d37ceaa0f1a" />
+      <file filePath="DesktopModules\Admin\SearchResults\App_LocalResources\ResultsSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchResults\App_LocalResources\ResultsSettings.ascx.zh-CN.resx" uniqueID="c9da3379-3c47-44c3-abae-1d7b59db1a3e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="332" ignoreDuringExportAndImport="False" uniqueID="4e4ae693-a92b-4262-9088-b41959c0407b">
+      <file filePath="DesktopModules\Admin\SearchResults\App_LocalResources\SearchResults.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchResults\App_LocalResources\SearchResults.ascx.resx" uniqueID="6f7f99c7-902a-4cea-adf0-87a60ba79d4d" />
+      <file filePath="DesktopModules\Admin\SearchResults\App_LocalResources\SearchResults.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SearchResults\App_LocalResources\SearchResults.ascx.zh-CN.resx" uniqueID="81f0a6f2-1604-4867-b7e2-a977d6b0e801" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="333" ignoreDuringExportAndImport="False" uniqueID="b46e6f76-a6d0-4540-8f7a-51f624f2ef79">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\EditGroups.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\EditGroups.ascx.resx" uniqueID="b12b5217-2b8e-46e8-a7e8-3fc9bf0f949f" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\EditGroups.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\EditGroups.ascx.zh-CN.resx" uniqueID="f5743363-56e7-4d93-aa66-9628806608bc" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="334" ignoreDuringExportAndImport="False" uniqueID="4530b1fc-4e67-41d9-a917-f716b69c4752">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\EditProfileDefinition.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\EditProfileDefinition.ascx.resx" uniqueID="4d381478-1fe7-4a52-be2f-35e1e48ccb8e" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\EditProfileDefinition.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\EditProfileDefinition.ascx.zh-CN.resx" uniqueID="c667cd9f-7c4a-40ee-b54b-3e6313cbde43" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="335" ignoreDuringExportAndImport="False" uniqueID="a7b7c112-565c-4c61-8c97-3136edcbfa16">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\EditRoles.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\EditRoles.ascx.resx" uniqueID="c5adae39-6d4b-480b-ad8c-fc6160c15ba1" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\EditRoles.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\EditRoles.ascx.zh-CN.resx" uniqueID="6610b3f7-5406-4612-ac5b-457942d60af3" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="336" ignoreDuringExportAndImport="False" uniqueID="9484b8f1-e2d6-4974-be10-03f96930e55c">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\ManageUsers.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\ManageUsers.ascx.resx" uniqueID="769cb493-7b23-4701-bf9f-1e47d94887d3" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\ManageUsers.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\ManageUsers.ascx.zh-CN.resx" uniqueID="18e971ec-34ec-4bf9-ae91-016ece216f75" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="337" ignoreDuringExportAndImport="False" uniqueID="85d71f02-2283-45a3-b963-d5b8f870c6e1">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\MemberServices.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\MemberServices.ascx.resx" uniqueID="f0b13705-9aca-486f-b80a-9aa8bb00978e" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\MemberServices.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\MemberServices.ascx.zh-CN.resx" uniqueID="5d944f35-230a-4970-ad1f-af64b24214c1" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="338" ignoreDuringExportAndImport="False" uniqueID="bfcc77ae-b6c4-45d9-8d2a-1b88597ed6b0">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Membership.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Membership.ascx.resx" uniqueID="0c371096-5ff9-430b-b9b1-b95ddc045c1f" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Membership.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Membership.ascx.zh-CN.resx" uniqueID="3987d4d1-5b9f-43e6-bada-86c23320dc02" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="339" ignoreDuringExportAndImport="False" uniqueID="3a003273-ba84-4dc9-ad35-c6ea98dc3e99">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Password.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Password.ascx.resx" uniqueID="644fc735-8e47-47ff-9f17-1e5a02f8bae0" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Password.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Password.ascx.zh-CN.resx" uniqueID="5f597aed-aa63-4fee-b0e0-8d2bdaf3080b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="340" ignoreDuringExportAndImport="False" uniqueID="fc816533-3216-4c7a-9f76-87a96992885d">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Profile.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Profile.ascx.resx" uniqueID="10fd9218-6332-4125-8aa2-54972af37b6f" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Profile.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Profile.ascx.zh-CN.resx" uniqueID="51080703-a4c2-4bd6-9ea8-dba11c0602c5" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="341" ignoreDuringExportAndImport="False" uniqueID="b24eff50-2480-4e6b-9dd8-9f3a7f2aabc6">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\ProfileDefinitions.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\ProfileDefinitions.ascx.resx" uniqueID="595d3c0f-cb81-4f98-a60d-d911d8b6fbc4" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\ProfileDefinitions.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\ProfileDefinitions.ascx.zh-CN.resx" uniqueID="8f018c7d-de85-443b-bb4b-c5b1d4b22ef7" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="342" ignoreDuringExportAndImport="False" uniqueID="610567d4-8acf-4aca-8390-697610fca162">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Roles.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Roles.ascx.resx" uniqueID="86fb65c3-c487-46f0-939a-913b549b450c" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Roles.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Roles.ascx.zh-CN.resx" uniqueID="ffa369c2-b819-40a1-8fb9-4e07d1ceab79" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="343" ignoreDuringExportAndImport="False" uniqueID="20e4270f-b2fe-4e14-8877-0c191c9b7ec2">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\SecurityRoles.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\SecurityRoles.ascx.resx" uniqueID="88487ee4-7fe4-40f3-86f1-d3e229ba3ab7" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\SecurityRoles.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\SecurityRoles.ascx.zh-CN.resx" uniqueID="2ddea176-9b3d-4bf6-978f-27772a804e85" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="344" ignoreDuringExportAndImport="False" uniqueID="cc52dc05-640d-4e63-b69e-f43db940074c">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\User.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\User.ascx.resx" uniqueID="a9c53c02-1bf2-403a-86f6-25ca91d1cc31" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\User.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\User.ascx.zh-CN.resx" uniqueID="42d509ac-8ec8-457f-b0dd-6bf718d97e9d" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="345" ignoreDuringExportAndImport="False" uniqueID="24d1a27f-1fc8-48a1-86e5-ea93b96cecf8">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Users.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Users.ascx.resx" uniqueID="1da93b08-53cc-4ed6-8c80-0ce7b2ee345f" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\Users.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\Users.ascx.zh-CN.resx" uniqueID="370633bf-c906-4cf1-82c6-399adfb5525f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="346" ignoreDuringExportAndImport="False" uniqueID="abcda3fa-d004-4d99-a396-819f9ba12132">
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\UserSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\UserSettings.ascx.resx" uniqueID="d21d82f3-070a-487d-af3a-4c92e1ffd11e" />
+      <file filePath="DesktopModules\Admin\Security\App_LocalResources\UserSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Security\App_LocalResources\UserSettings.ascx.zh-CN.resx" uniqueID="ebd2053e-91d4-4a6d-bf1f-ff8201b123da" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="347" ignoreDuringExportAndImport="False" uniqueID="285ebd7c-a162-4d73-b1d8-3d8fea4b2a2e">
+      <file filePath="DesktopModules\Admin\SiteLog\App_LocalResources\SiteLog.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SiteLog\App_LocalResources\SiteLog.ascx.resx" uniqueID="40ed99c5-e94d-4599-895a-81d9f5b9d804" />
+      <file filePath="DesktopModules\Admin\SiteLog\App_LocalResources\SiteLog.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SiteLog\App_LocalResources\SiteLog.ascx.zh-CN.resx" uniqueID="604ad227-cbbc-433d-903f-83d24be06674" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="348" ignoreDuringExportAndImport="False" uniqueID="9e9f257a-f17d-4932-a66c-b422e8cba92c">
+      <file filePath="DesktopModules\Admin\Sitemap\App_LocalResources\SitemapSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Sitemap\App_LocalResources\SitemapSettings.ascx.resx" uniqueID="49913639-806d-4d31-b898-0d1e54d246f9" />
+      <file filePath="DesktopModules\Admin\Sitemap\App_LocalResources\SitemapSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Sitemap\App_LocalResources\SitemapSettings.ascx.zh-CN.resx" uniqueID="9ee9618b-9224-48a9-af34-bc1086dbe5d9" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="349" ignoreDuringExportAndImport="False" uniqueID="b8196718-d80e-4683-bee8-9370c460ea64">
+      <file filePath="DesktopModules\Admin\SiteWizard\App_LocalResources\SiteWizard.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SiteWizard\App_LocalResources\SiteWizard.ascx.resx" uniqueID="b5401a8d-05d7-4696-a111-40d55292e4d5" />
+      <file filePath="DesktopModules\Admin\SiteWizard\App_LocalResources\SiteWizard.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SiteWizard\App_LocalResources\SiteWizard.ascx.zh-CN.resx" uniqueID="d472a709-d0b2-47fa-99f9-6b34def3020b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="350" ignoreDuringExportAndImport="False" uniqueID="57fddf60-e26c-42c2-b89d-9dccfc7c45d9">
+      <file filePath="DesktopModules\Admin\SkinDesigner\App_LocalResources\Attributes.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SkinDesigner\App_LocalResources\Attributes.ascx.resx" uniqueID="f0d6101d-ea77-4ce7-a9f3-1f6a889160c6" />
+      <file filePath="DesktopModules\Admin\SkinDesigner\App_LocalResources\Attributes.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SkinDesigner\App_LocalResources\Attributes.ascx.zh-CN.resx" uniqueID="df4a5d47-5955-49c9-85d8-3772b3176d3e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="351" ignoreDuringExportAndImport="False" uniqueID="bf36efcf-47c8-4d2e-81b3-f307cf6990c2">
+      <file filePath="DesktopModules\Admin\Skins\App_LocalResources\EditSkins.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Skins\App_LocalResources\EditSkins.ascx.resx" uniqueID="0a588702-2dcb-4fb2-8471-a52294b98383" />
+      <file filePath="DesktopModules\Admin\Skins\App_LocalResources\EditSkins.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Skins\App_LocalResources\EditSkins.ascx.zh-CN.resx" uniqueID="a409a812-5a08-4309-8f4d-0c8a365d154a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="352" ignoreDuringExportAndImport="False" uniqueID="e9abca5e-2ae1-48f1-9fe1-eb6bd94aeea8">
+      <file filePath="DesktopModules\Admin\Solutions\App_LocalResources\Solutions.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Solutions\App_LocalResources\Solutions.ascx.resx" uniqueID="e3803700-b3c6-439d-9ce4-46f4c533fd0f" />
+      <file filePath="DesktopModules\Admin\Solutions\App_LocalResources\Solutions.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Solutions\App_LocalResources\Solutions.ascx.zh-CN.resx" uniqueID="fe9e2509-aac1-4af7-a200-cd35563dcb7e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="353" ignoreDuringExportAndImport="False" uniqueID="99752975-cc91-4d97-9dc3-92af9547a511">
+      <file filePath="DesktopModules\Admin\SQL\App_LocalResources\SQL.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SQL\App_LocalResources\SQL.ascx.resx" uniqueID="8e734fa8-295a-4cf2-8b47-631f083d1a8a" />
+      <file filePath="DesktopModules\Admin\SQL\App_LocalResources\SQL.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\SQL\App_LocalResources\SQL.ascx.zh-CN.resx" uniqueID="7dd94faa-9806-43ac-913c-8206f8339403" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="354" ignoreDuringExportAndImport="False" uniqueID="9ab86d26-a111-4e0c-8560-72674191487f">
+      <file filePath="DesktopModules\Admin\Tabs\App_LocalResources\ManageTabs.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Tabs\App_LocalResources\ManageTabs.ascx.resx" uniqueID="44c675e1-f8c2-4012-b6d1-abd1c6d21470" />
+      <file filePath="DesktopModules\Admin\Tabs\App_LocalResources\ManageTabs.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Tabs\App_LocalResources\ManageTabs.ascx.zh-CN.resx" uniqueID="dde8e04e-ca8f-45f6-82e4-1a15395b3d18" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="355" ignoreDuringExportAndImport="False" uniqueID="43156fbf-9f8c-4082-9168-a9335277c76c">
+      <file filePath="DesktopModules\Admin\Tabs\App_LocalResources\TabLocalization.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Tabs\App_LocalResources\TabLocalization.ascx.resx" uniqueID="53d4f4b4-da21-4ba2-9afe-d3babe71490f" />
+      <file filePath="DesktopModules\Admin\Tabs\App_LocalResources\TabLocalization.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Tabs\App_LocalResources\TabLocalization.ascx.zh-CN.resx" uniqueID="f3f00d63-6a68-4bc5-955d-e2ca139f026c" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="356" ignoreDuringExportAndImport="False" uniqueID="0f8419f5-7e6f-44cf-a14b-95d5a6b69584">
+      <file filePath="DesktopModules\Admin\Tabs\App_LocalResources\Tabs.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Tabs\App_LocalResources\Tabs.ascx.resx" uniqueID="1a6eea55-1d4a-4c36-a920-ce533ed1ceb5" />
+      <file filePath="DesktopModules\Admin\Tabs\App_LocalResources\Tabs.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Tabs\App_LocalResources\Tabs.ascx.zh-CN.resx" uniqueID="052c5a3e-9b42-4b7e-8ce7-ab1a386214d5" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="357" ignoreDuringExportAndImport="False" uniqueID="5bd0e317-d191-4484-9d55-694f6827aa49">
+      <file filePath="DesktopModules\Admin\Taxonomy\App_LocalResources\CreateVocabulary.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Taxonomy\App_LocalResources\CreateVocabulary.ascx.resx" uniqueID="91564f2f-7ac1-4935-a9a2-3de0153121ae" />
+      <file filePath="DesktopModules\Admin\Taxonomy\App_LocalResources\CreateVocabulary.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Taxonomy\App_LocalResources\CreateVocabulary.ascx.zh-CN.resx" uniqueID="7316f152-ed78-4a79-8a10-e911294e249b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="358" ignoreDuringExportAndImport="False" uniqueID="2acdab50-1ac2-4d8e-8179-830968cc295a">
+      <file filePath="DesktopModules\Admin\Taxonomy\App_LocalResources\EditVocabulary.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Taxonomy\App_LocalResources\EditVocabulary.ascx.resx" uniqueID="4418efa4-09ff-4b6e-a6bc-1a88fb197d50" />
+      <file filePath="DesktopModules\Admin\Taxonomy\App_LocalResources\EditVocabulary.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Taxonomy\App_LocalResources\EditVocabulary.ascx.zh-CN.resx" uniqueID="14344c90-69cc-4aed-afef-e2e135ceec66" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="359" ignoreDuringExportAndImport="False" uniqueID="38fc71f4-e12a-49f5-add4-4bfeb0fe5423">
+      <file filePath="DesktopModules\Admin\Taxonomy\App_LocalResources\SharedResources.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Taxonomy\App_LocalResources\SharedResources.resx" uniqueID="539b5878-877e-406d-b517-c1960c7d407c" />
+      <file filePath="DesktopModules\Admin\Taxonomy\App_LocalResources\SharedResources.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Taxonomy\App_LocalResources\SharedResources.zh-CN.resx" uniqueID="1ed179f3-0be5-4cab-8ab0-e0201eed3150" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="360" ignoreDuringExportAndImport="False" uniqueID="07edbf45-494d-4b5c-91f8-21766ce7a555">
+      <file filePath="DesktopModules\Admin\Taxonomy\App_LocalResources\VocabularyList.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Taxonomy\App_LocalResources\VocabularyList.ascx.resx" uniqueID="1be3a327-f54d-49a1-ac06-8b014c15a869" />
+      <file filePath="DesktopModules\Admin\Taxonomy\App_LocalResources\VocabularyList.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Taxonomy\App_LocalResources\VocabularyList.ascx.zh-CN.resx" uniqueID="d214cec9-d2de-4bb9-b2b6-0e1c584b91c5" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="361" ignoreDuringExportAndImport="False" uniqueID="29d57685-6908-45dd-8d7a-64a987603a4f">
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\Affiliates.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\Affiliates.ascx.resx" uniqueID="3f023fda-183a-4cc5-9821-0f48af086213" />
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\Affiliates.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\Affiliates.ascx.zh-CN.resx" uniqueID="e6137200-5db1-473b-b22a-18c918d4dc7b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="362" ignoreDuringExportAndImport="False" uniqueID="cc26e065-2926-4f28-9f0e-c0f22e6342eb">
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\Banners.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\Banners.ascx.resx" uniqueID="6703cb93-ec3e-413f-868a-67432a41a35d" />
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\Banners.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\Banners.ascx.zh-CN.resx" uniqueID="7abc2927-00c5-4f07-a5fa-54c2706bf147" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="363" ignoreDuringExportAndImport="False" uniqueID="42825f2c-330b-4647-b51b-ec76f9d9d14a">
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\EditAffiliate.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\EditAffiliate.ascx.resx" uniqueID="1957c1dd-a401-4be1-93e7-4277a59106ce" />
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\EditAffiliate.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\EditAffiliate.ascx.zh-CN.resx" uniqueID="b8c043b2-e6b5-457f-bf90-7cb6c27bf189" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="364" ignoreDuringExportAndImport="False" uniqueID="65bc2592-5643-4e7d-a8b8-bd73892e8f98">
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\EditBanner.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\EditBanner.ascx.resx" uniqueID="a0f5a48d-0999-4d51-a8d7-ffcfaeb829d8" />
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\EditBanner.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\EditBanner.ascx.zh-CN.resx" uniqueID="dbadf1c6-9617-4a90-b02a-edf2a3cc7fc7" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="365" ignoreDuringExportAndImport="False" uniqueID="b7a5ad67-b8dd-417e-9a87-ab94c213a2e5">
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\EditVendors.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\EditVendors.ascx.resx" uniqueID="0f7a98aa-f6f9-4db4-9577-b55175140e7d" />
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\EditVendors.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\EditVendors.ascx.zh-CN.resx" uniqueID="c89a7e90-3e5f-40b1-83b7-324070768431" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="366" ignoreDuringExportAndImport="False" uniqueID="d4d3ad75-b1f2-4af6-be9e-a60405e6b045">
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\Vendors.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\Vendors.ascx.resx" uniqueID="9aab5d32-ed50-4792-8d67-db185e041bf7" />
+      <file filePath="DesktopModules\Admin\Vendors\App_LocalResources\Vendors.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\Vendors\App_LocalResources\Vendors.ascx.zh-CN.resx" uniqueID="0cde134b-b413-4c89-b61b-93dd5c467f0f" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="367" ignoreDuringExportAndImport="False" uniqueID="c0597911-d118-443a-b6af-fc7a8b033618">
+      <file filePath="DesktopModules\Admin\ViewProfile\App_LocalResources\Settings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ViewProfile\App_LocalResources\Settings.ascx.resx" uniqueID="10f7c47b-7464-4acb-9147-8636e36a8afd" />
+      <file filePath="DesktopModules\Admin\ViewProfile\App_LocalResources\Settings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ViewProfile\App_LocalResources\Settings.ascx.zh-CN.resx" uniqueID="14a87ab9-077a-43b5-892c-22576cdb9932" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="368" ignoreDuringExportAndImport="False" uniqueID="e569a467-f3b7-4cd0-baa4-a2e71367436e">
+      <file filePath="DesktopModules\Admin\ViewProfile\App_LocalResources\SharedResources.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ViewProfile\App_LocalResources\SharedResources.resx" uniqueID="b034ee95-1faa-44d3-8927-30e9094f3546" />
+      <file filePath="DesktopModules\Admin\ViewProfile\App_LocalResources\SharedResources.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ViewProfile\App_LocalResources\SharedResources.zh-CN.resx" uniqueID="b47b5097-27dd-4569-b11d-c7e456875dbb" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="369" ignoreDuringExportAndImport="False" uniqueID="3900d1d1-f318-4409-a5be-8182c5397c24">
+      <file filePath="DesktopModules\Admin\ViewProfile\App_LocalResources\ViewProfile.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ViewProfile\App_LocalResources\ViewProfile.ascx.resx" uniqueID="aacd9a8d-ecc0-422c-9082-bb5d3b852f76" />
+      <file filePath="DesktopModules\Admin\ViewProfile\App_LocalResources\ViewProfile.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\ViewProfile\App_LocalResources\ViewProfile.ascx.zh-CN.resx" uniqueID="0ab89832-5971-41fb-998a-8fe43b690350" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="370" ignoreDuringExportAndImport="False" uniqueID="dc3015e4-8c78-47fc-8540-8091c1c286b2">
+      <file filePath="DesktopModules\Admin\WhatsNew\App_LocalResources\WhatsNew.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\WhatsNew\App_LocalResources\WhatsNew.ascx.resx" uniqueID="e0615c74-239a-4cf0-8ed6-6d2c8613d3d3" />
+      <file filePath="DesktopModules\Admin\WhatsNew\App_LocalResources\WhatsNew.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\WhatsNew\App_LocalResources\WhatsNew.ascx.zh-CN.resx" uniqueID="2c106e79-6fec-459b-a394-e2a0dc36eac2" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="371" ignoreDuringExportAndImport="False" uniqueID="d4fb112b-ef9c-481e-9c28-1aeda026db68">
+      <file filePath="DesktopModules\Admin\XmlMerge\App_LocalResources\XmlMerge.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\XmlMerge\App_LocalResources\XmlMerge.ascx.resx" uniqueID="7bb3b935-1d3e-4ecf-87fd-07cf7edb7d37" />
+      <file filePath="DesktopModules\Admin\XmlMerge\App_LocalResources\XmlMerge.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Admin\XmlMerge\App_LocalResources\XmlMerge.ascx.zh-CN.resx" uniqueID="3667da3b-13e3-4213-a18c-659e3bdf4fdb" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="372" ignoreDuringExportAndImport="False" uniqueID="26ba88ff-f7e0-404c-b17d-289e6768a050">
+      <file filePath="DesktopModules\AuthenticationServices\DNN\App_LocalResources\Login.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\AuthenticationServices\DNN\App_LocalResources\Login.ascx.resx" uniqueID="fb6cf90d-3698-4937-aeb0-7c5f12cdb5c2" />
+      <file filePath="DesktopModules\AuthenticationServices\DNN\App_LocalResources\Login.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\AuthenticationServices\DNN\App_LocalResources\Login.ascx.zh-CN.resx" uniqueID="d4298b5d-f7b2-4270-9c89-f7ac2ab926b1" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="373" ignoreDuringExportAndImport="False" uniqueID="ae4df0ac-92c5-4f4b-bca5-073233adc5cf">
+      <file filePath="DesktopModules\AuthenticationServices\DNN\App_LocalResources\Settings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\AuthenticationServices\DNN\App_LocalResources\Settings.ascx.resx" uniqueID="94a4e98f-fd24-43c9-9184-857c09eb1793" />
+      <file filePath="DesktopModules\AuthenticationServices\DNN\App_LocalResources\Settings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\AuthenticationServices\DNN\App_LocalResources\Settings.ascx.zh-CN.resx" uniqueID="f68c3493-a9c2-4dfe-b34f-43e7b4120606" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="374" ignoreDuringExportAndImport="False" uniqueID="84db9b88-fb96-4ddb-8caa-a7d3cb87dc7e">
+      <file filePath="DesktopModules\Blog\App_LocalResources\Archive.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\Archive.ascx.resx" uniqueID="1bf5ac51-0c5e-4923-8ccb-b423e972f145" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\Archive.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\Archive.ascx.zh-CN.resx" uniqueID="c625e4ee-932d-48b8-b780-bc74c61ba88b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="375" ignoreDuringExportAndImport="False" uniqueID="c7639573-46da-4181-9595-4e2ad0d83a8b">
+      <file filePath="DesktopModules\Blog\App_LocalResources\Blog.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\Blog.ascx.resx" uniqueID="aa4f8a65-3598-4749-8608-23aa099d4fd2" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\Blog.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\Blog.ascx.zh-CN.resx" uniqueID="276cdba8-2de1-4bf1-a44b-f960844f721b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="376" ignoreDuringExportAndImport="False" uniqueID="7628642e-c83e-4f26-838a-33b4b98d0ce8">
+      <file filePath="DesktopModules\Blog\App_LocalResources\BlogImport.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\BlogImport.ascx.resx" uniqueID="c4eec3d9-7984-40c2-8e08-1e00c5ebaf33" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\BlogImport.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\BlogImport.ascx.zh-CN.resx" uniqueID="b7ed02ee-da5b-4f61-a83c-366f1abc7339" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="377" ignoreDuringExportAndImport="False" uniqueID="fc598f26-6a4b-4d6b-91b3-4afc1956866c">
+      <file filePath="DesktopModules\Blog\App_LocalResources\BlogList.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\BlogList.ascx.resx" uniqueID="9434e0d3-d9f3-42b1-98ef-59e19bd5008d" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\BlogList.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\BlogList.ascx.zh-CN.resx" uniqueID="62119e53-cd2d-4aa0-a0d7-cad93eeac451" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="378" ignoreDuringExportAndImport="False" uniqueID="b7dbeb08-f90a-4d7e-b111-e8a84a2ed8bc">
+      <file filePath="DesktopModules\Blog\App_LocalResources\blogpost.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\blogpost.ascx.resx" uniqueID="21ae1e89-8421-4057-9417-48c83d5da282" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\blogpost.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\blogpost.ascx.zh-CN.resx" uniqueID="ec161720-d92a-4308-9d85-85191fbadaec" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="379" ignoreDuringExportAndImport="False" uniqueID="795afb2f-5f97-4d41-9540-68fca6cbe589">
+      <file filePath="DesktopModules\Blog\App_LocalResources\BlogTemplates.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\BlogTemplates.ascx.resx" uniqueID="e1274761-e311-46b6-8d5d-e77423fd1386" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\BlogTemplates.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\BlogTemplates.ascx.zh-CN.resx" uniqueID="013e509a-01b2-4fa3-bcaf-3f495bc82f3e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="380" ignoreDuringExportAndImport="False" uniqueID="8fa7d9a9-8c1f-4a46-a4c8-81449b6802f7">
+      <file filePath="DesktopModules\Blog\App_LocalResources\EditBlog.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\EditBlog.ascx.resx" uniqueID="eef71e70-939a-41cb-9d39-2f675426cdff" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\EditBlog.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\EditBlog.ascx.zh-CN.resx" uniqueID="39153960-152f-4b05-ab49-2ebaf5937c71" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="381" ignoreDuringExportAndImport="False" uniqueID="85183859-77eb-4946-8649-363ad1d30baa">
+      <file filePath="DesktopModules\Blog\App_LocalResources\EditCategories.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\EditCategories.ascx.resx" uniqueID="29620c80-89f7-4e92-80c3-eac4f71b9016" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\EditCategories.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\EditCategories.ascx.zh-CN.resx" uniqueID="49adc583-9a5e-49b0-8cb0-575bd3131109" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="382" ignoreDuringExportAndImport="False" uniqueID="ec005485-6859-4868-abc1-5f6297abb4a0">
+      <file filePath="DesktopModules\Blog\App_LocalResources\EditEntry.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\EditEntry.ascx.resx" uniqueID="12b222e1-3961-476e-b33c-5b82559d7d3f" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\EditEntry.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\EditEntry.ascx.zh-CN.resx" uniqueID="548eb7b0-5503-4c0f-a2b0-e0cbdd6d0131" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="383" ignoreDuringExportAndImport="False" uniqueID="163736e8-74f7-4a23-9e9c-2fdb68ca8b9d">
+      <file filePath="DesktopModules\Blog\App_LocalResources\MainView.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\MainView.ascx.resx" uniqueID="005c5c99-83b9-4851-8292-ae5d496102fe" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\MainView.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\MainView.ascx.zh-CN.resx" uniqueID="b8c49854-d6fe-44b8-b10c-b1c8c6a688be" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="384" ignoreDuringExportAndImport="False" uniqueID="1a6e3567-b0a7-4367-bcc0-467953fefeb1">
+      <file filePath="DesktopModules\Blog\App_LocalResources\MassEdit.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\MassEdit.ascx.resx" uniqueID="b46afaa3-dae3-4185-9d98-46b7144a1ea3" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\MassEdit.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\MassEdit.ascx.zh-CN.resx" uniqueID="83ded070-67d2-46fe-9029-5dc6f14e1e24" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="385" ignoreDuringExportAndImport="False" uniqueID="001e8d54-23cd-4694-8d84-5e95ab9fcd93">
+      <file filePath="DesktopModules\Blog\App_LocalResources\ModuleOptions.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ModuleOptions.ascx.resx" uniqueID="e8f4f032-daf6-46f3-865b-94c1088d98a9" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\ModuleOptions.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ModuleOptions.ascx.zh-CN.resx" uniqueID="5372a56c-891d-4861-b45d-f62e3e0a45ba" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="386" ignoreDuringExportAndImport="False" uniqueID="15548313-7937-4e47-a6f5-46b236858402">
+      <file filePath="DesktopModules\Blog\App_LocalResources\RecentComments.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\RecentComments.ascx.resx" uniqueID="556e85fd-a093-47e4-9258-dc78fc771808" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\RecentComments.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\RecentComments.ascx.zh-CN.resx" uniqueID="a95f0579-f4da-484b-93fa-6877375ce384" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="387" ignoreDuringExportAndImport="False" uniqueID="6c6c8cd3-483b-41eb-aa61-21669502bebe">
+      <file filePath="DesktopModules\Blog\App_LocalResources\RecentCommentsSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\RecentCommentsSettings.ascx.resx" uniqueID="00b34152-2b52-4757-afe3-b3960a98c5e7" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\RecentCommentsSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\RecentCommentsSettings.ascx.zh-CN.resx" uniqueID="945429c5-4985-41f3-af28-ba3ca33dc8c8" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="388" ignoreDuringExportAndImport="False" uniqueID="fcd14a8e-74a3-4c5f-b937-7ba33fabb3ce">
+      <file filePath="DesktopModules\Blog\App_LocalResources\RecentEntries.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\RecentEntries.ascx.resx" uniqueID="04e8ef10-b686-4dbb-9cf5-a2eef249ec35" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\RecentEntries.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\RecentEntries.ascx.zh-CN.resx" uniqueID="1dd5749d-ecc9-41f1-9628-9218ad206117" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="389" ignoreDuringExportAndImport="False" uniqueID="ea50f2dc-2b7e-462e-9c46-1e46e0bc78bb">
+      <file filePath="DesktopModules\Blog\App_LocalResources\RecentEntriesSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\RecentEntriesSettings.ascx.resx" uniqueID="ae29464e-d079-4b0f-a3a1-c9495b126763" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\RecentEntriesSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\RecentEntriesSettings.ascx.zh-CN.resx" uniqueID="51b520dc-7363-4df9-8675-d7d3847c6ace" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="390" ignoreDuringExportAndImport="False" uniqueID="7feda1f7-c4a9-498d-8153-a30c59974d17">
+      <file filePath="DesktopModules\Blog\App_LocalResources\Search.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\Search.ascx.resx" uniqueID="b7d249ec-4317-4c9d-8580-bcde01b64fb9" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\Search.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\Search.ascx.zh-CN.resx" uniqueID="23ad6232-d493-43c7-873b-3718d0e94443" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="391" ignoreDuringExportAndImport="False" uniqueID="0dfdc785-9a74-4f91-a396-132327a26e1c">
+      <file filePath="DesktopModules\Blog\App_LocalResources\SharedResources.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\SharedResources.ascx.resx" uniqueID="131ce060-9567-4a33-9e39-860075ef9edf" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\SharedResources.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\SharedResources.ascx.zh-CN.resx" uniqueID="da960129-3086-487c-8ffa-e02bad557503" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="392" ignoreDuringExportAndImport="False" uniqueID="e6370c1f-cc02-4c17-8e13-f362696ad39c">
+      <file filePath="DesktopModules\Blog\App_LocalResources\Trackback.aspx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\Trackback.aspx.resx" uniqueID="d16043f8-818d-4c28-b758-2b55cdbfbf4d" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\Trackback.aspx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\Trackback.aspx.zh-CN.resx" uniqueID="6262fa01-c6b4-4f0e-b9ae-4b507daa50ca" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="393" ignoreDuringExportAndImport="False" uniqueID="1a4b0a1b-1977-4e32-ab77-1d821ebc5f69">
+      <file filePath="DesktopModules\Blog\App_LocalResources\ViewBlog.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ViewBlog.ascx.resx" uniqueID="3ed2ec25-6879-43f9-a5ec-1dc912a982da" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\ViewBlog.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ViewBlog.ascx.zh-CN.resx" uniqueID="a090b8ae-1ef6-44c6-a9b4-ab36d6737d4a" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="394" ignoreDuringExportAndImport="False" uniqueID="360d0498-2a94-4b2c-b15d-6ff100ebb0ff">
+      <file filePath="DesktopModules\Blog\App_LocalResources\ViewCategories.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ViewCategories.ascx.resx" uniqueID="2e343a94-9bb6-44c5-91cd-71d3e04a67db" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\ViewCategories.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ViewCategories.ascx.zh-CN.resx" uniqueID="0eb34cc5-9ceb-484d-a401-2bad9e97757e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="395" ignoreDuringExportAndImport="False" uniqueID="d867156c-fc06-4534-ab1d-2352d99695fc">
+      <file filePath="DesktopModules\Blog\App_LocalResources\ViewEntry.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ViewEntry.ascx.resx" uniqueID="8931b776-bd59-40fa-b964-0fd094a36a51" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\ViewEntry.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ViewEntry.ascx.zh-CN.resx" uniqueID="8adbd0e5-02c6-43a0-b2a7-9112ced0f828" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="396" ignoreDuringExportAndImport="False" uniqueID="7c2508d3-a910-4e7e-a692-a86fca2b17f4">
+      <file filePath="DesktopModules\Blog\App_LocalResources\ViewTagsSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ViewTagsSettings.ascx.resx" uniqueID="20bc3a13-597b-41db-8993-24607ba54359" />
+      <file filePath="DesktopModules\Blog\App_LocalResources\ViewTagsSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\Blog\App_LocalResources\ViewTagsSettings.ascx.zh-CN.resx" uniqueID="c3788d24-85b8-496f-a625-24c9d380cf17" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="397" ignoreDuringExportAndImport="False" uniqueID="ff74a95e-08d1-455a-ac61-043a940f3e73">
+      <file filePath="DesktopModules\DDRMenu\App_LocalResources\MenuSettings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\DDRMenu\App_LocalResources\MenuSettings.ascx.resx" uniqueID="f42d0224-f5ac-40d7-93fa-bb153aa7af25" />
+      <file filePath="DesktopModules\DDRMenu\App_LocalResources\MenuSettings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\DDRMenu\App_LocalResources\MenuSettings.ascx.zh-CN.resx" uniqueID="5651665e-15ce-4a7d-a57b-97a24f3e7c08" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="398" ignoreDuringExportAndImport="False" uniqueID="52147e67-bb42-42a3-9745-2f29d0a24059">
+      <file filePath="DesktopModules\DDRMenu\App_LocalResources\MenuView.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\DDRMenu\App_LocalResources\MenuView.ascx.resx" uniqueID="b44649e7-b8ae-49dc-a3a0-b1d4b843492e" />
+      <file filePath="DesktopModules\DDRMenu\App_LocalResources\MenuView.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\DDRMenu\App_LocalResources\MenuView.ascx.zh-CN.resx" uniqueID="184edad9-7d53-4dff-b560-d7640f615bbc" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="399" ignoreDuringExportAndImport="False" uniqueID="c83c2147-b0c6-41f5-a4ce-39afcb6a3d41">
+      <file filePath="DesktopModules\HTML\App_LocalResources\EditHtml.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\EditHtml.ascx.resx" uniqueID="381f33da-3010-456f-a4c8-2e9ede998b0a" />
+      <file filePath="DesktopModules\HTML\App_LocalResources\EditHtml.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\EditHtml.ascx.zh-CN.resx" uniqueID="ebe26bf0-a84a-4016-884f-ed19e66c21cb" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="400" ignoreDuringExportAndImport="False" uniqueID="a8080268-831f-4c62-91f6-1fe98ea01266">
+      <file filePath="DesktopModules\HTML\App_LocalResources\HtmlModule.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\HtmlModule.ascx.resx" uniqueID="105529d6-a9e9-4a4d-bcc5-4f203b1e3ae9" />
+      <file filePath="DesktopModules\HTML\App_LocalResources\HtmlModule.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\HtmlModule.ascx.zh-CN.resx" uniqueID="d18c0775-665f-4b02-b878-91fa4b55f331" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="401" ignoreDuringExportAndImport="False" uniqueID="63c1e06c-577d-4766-86bd-6409ddb4e52e">
+      <file filePath="DesktopModules\HTML\App_LocalResources\MyWork.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\MyWork.ascx.resx" uniqueID="6edd7a3f-ab57-43cf-a1d1-5d60323bdac9" />
+      <file filePath="DesktopModules\HTML\App_LocalResources\MyWork.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\MyWork.ascx.zh-CN.resx" uniqueID="917a4f26-f84f-40d4-8eff-00c6991be193" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="402" ignoreDuringExportAndImport="False" uniqueID="23f2b333-d199-4097-9730-b1f04cc38e40">
+      <file filePath="DesktopModules\HTML\App_LocalResources\Settings.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\Settings.ascx.resx" uniqueID="ce884cee-a1d3-4d16-9154-4285d3ccc583" />
+      <file filePath="DesktopModules\HTML\App_LocalResources\Settings.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\Settings.ascx.zh-CN.resx" uniqueID="21c3d58e-1272-4181-bd2e-6a1239baaa29" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="403" ignoreDuringExportAndImport="False" uniqueID="4b17bec5-c944-4a53-823f-f3de84860a5c">
+      <file filePath="DesktopModules\HTML\App_LocalResources\SharedResources.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\SharedResources.resx" uniqueID="3925ff91-0cd6-4f7d-8fc8-86eeac66474c" />
+      <file filePath="DesktopModules\HTML\App_LocalResources\SharedResources.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\SharedResources.zh-CN.resx" uniqueID="0a0b5919-cd3a-43a4-b0f8-1ac8ac9136f5" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="404" ignoreDuringExportAndImport="False" uniqueID="2d188f7d-7d4d-4757-8073-9d43f67a8e85">
+      <file filePath="DesktopModules\HTML\App_LocalResources\Workflow.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\Workflow.ascx.resx" uniqueID="46bb6472-6c65-44b6-b089-a2a163ed456e" />
+      <file filePath="DesktopModules\HTML\App_LocalResources\Workflow.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\DesktopModules\HTML\App_LocalResources\Workflow.ascx.zh-CN.resx" uniqueID="fcd2315c-b499-4321-a46f-1e997f172523" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="405" ignoreDuringExportAndImport="False" uniqueID="de8918ab-59ff-47ae-92a4-9b49f3bb094d">
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.resx" uniqueID="cf787da3-e0d5-4dc0-b7b6-8990c7d6ada2" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.ar-JO.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.ar-JO.resx" uniqueID="6c9191f3-895c-4d42-9271-c84c30f10b34" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.ca-ES.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.ca-ES.resx" uniqueID="98b37f53-b8a7-4086-a77c-bd41084d1cf0" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.de-DE.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.de-DE.resx" uniqueID="80accf3a-f1a5-43a5-80eb-517fe5f50c9e" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.es-ES.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.es-ES.resx" uniqueID="c0dd1c9f-33f3-4ded-b6fa-05d4fa93420e" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.fr-FR.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.fr-FR.resx" uniqueID="92b4c4dd-c253-44e7-b267-62b52e9fea7d" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.it-IT.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.it-IT.resx" uniqueID="cbbcf055-c62c-488c-80d8-acff4232cf9d" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.ja-JP.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.ja-JP.resx" uniqueID="312063c4-6906-4225-8d50-b60f289dbb36" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.ko-KR.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.ko-KR.resx" uniqueID="8c60aa14-bcb4-4056-972d-5cebfb5d7c7e" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.nl-NL.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.nl-NL.resx" uniqueID="f566d580-aae2-47e3-b3fd-24b3a9ceb9ce" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.pl-PL.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.pl-PL.resx" uniqueID="5551610d-d039-49d7-870f-e68a86716e0c" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.pt-BR.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.pt-BR.resx" uniqueID="5f067927-a537-42a5-aeb9-4d39d5f21db7" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.ru-RU.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.ru-RU.resx" uniqueID="db3f0fef-cfc2-4922-9b97-0355f387e92b" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.tr-TR.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.tr-TR.resx" uniqueID="6db93404-c0d2-4c8c-abfd-75286a71960e" />
+      <file filePath="Install\App_LocalResources\Installwizard.aspx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Install\App_LocalResources\Installwizard.aspx.zh-CN.resx" uniqueID="848a0d87-8e82-4531-8c48-9d5eedcd946b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="406" ignoreDuringExportAndImport="False" uniqueID="247965fa-541d-4d64-ad4a-ccc927b8ea76">
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Left-Mega-Menu.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Left-Mega-Menu.ascx.resx" uniqueID="8180e74d-d558-4446-a1fb-2386170a4910" />
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Left-Mega-Menu.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Left-Mega-Menu.ascx.zh-CN.resx" uniqueID="cc65fb8d-dd3e-49b6-a3a3-caa82e719b83" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="407" ignoreDuringExportAndImport="False" uniqueID="423ca92b-a61f-49a8-9f35-4bf0f1f3073e">
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Left-Standard-Menu.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Left-Standard-Menu.ascx.resx" uniqueID="403f852b-ee6b-45b9-80c4-24ffe349b637" />
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Left-Standard-Menu.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Left-Standard-Menu.ascx.zh-CN.resx" uniqueID="0eee2945-3f79-4fe4-af78-0c8288a96a12" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="408" ignoreDuringExportAndImport="False" uniqueID="61f01e13-a91e-4efb-ab5a-c29d461dfdc1">
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Right-Mega-Menu.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Right-Mega-Menu.ascx.resx" uniqueID="83688bd4-46d7-448a-ae31-a61ec9c6d559" />
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Right-Mega-Menu.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Right-Mega-Menu.ascx.zh-CN.resx" uniqueID="4567f43f-d48d-4ccf-9ba2-f4beb142d24e" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="409" ignoreDuringExportAndImport="False" uniqueID="795fbdd2-851a-400a-814e-009d8445e48e">
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Right-Standard-Menu.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Right-Standard-Menu.ascx.resx" uniqueID="5117a0fc-15fa-4a0f-bad3-58053c005b36" />
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Right-Standard-Menu.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\2-Column-Right-Standard-Menu.ascx.zh-CN.resx" uniqueID="2f26e448-463c-4f86-9d84-5503bfb5392b" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="410" ignoreDuringExportAndImport="False" uniqueID="013273fc-b2d8-49eb-a743-e482a7357638">
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\3-Column-Mega-Menu.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\3-Column-Mega-Menu.ascx.resx" uniqueID="5b9c8675-25e8-498f-b7e7-7b9bd04cae4c" />
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\3-Column-Mega-Menu.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\3-Column-Mega-Menu.ascx.zh-CN.resx" uniqueID="9cb49394-f0ad-407e-af80-c68f29d88a59" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="411" ignoreDuringExportAndImport="False" uniqueID="ca9d89b4-6748-4fca-932e-9fd4de8652c1">
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\3-Column-Standard-Menu.ascx.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\3-Column-Standard-Menu.ascx.resx" uniqueID="0af49931-a419-449e-9fdc-a0b0de92be26" />
+      <file filePath="Portals\_default\Skins\DarkKnight\app_localresources\3-Column-Standard-Menu.ascx.zh-CN.resx" absoluteFilePath="C:\Workplace\dnn\dnn6.01\Portals\_default\Skins\DarkKnight\app_localresources\3-Column-Standard-Menu.ascx.zh-CN.resx" uniqueID="723dff71-27fb-4655-a2bd-c7064d61cb07" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+  </fileGroups>
+  <projectFolders />
+</project>

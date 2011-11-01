@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;关于页面管理&lt;/h1&gt;&lt;p&gt;在此管理网站中的页面。管理员可以添加、编辑、删除页面，并修改页面在菜单中的顺序和等级。&lt;/p&gt;</value>
+  </data>
+	<data name="AddPage.Text" xml:space="preserve">
+		<value>添加页面</value>
+	</data>
+	<data name="CanNotDeleteHomeTab.Text" xml:space="preserve">
+		<value>您不能删除网站的主页！</value>
+	</data>
+	<data name="CanNotDeleteSpecialTab.Text" xml:space="preserve">
+		<value>这是一个特殊的页面，不能被删除！</value>
+	</data>
+	<data name="Collapse.Text" xml:space="preserve">
+		<value>关闭所有节点</value>
+	</data>
+	<data name="ConfirmDelete.Text" xml:space="preserve">
+		<value>删除选定的页面和它的所有子页面。您确定吗？</value>
+	</data>
+	<data name="DeletePage.Text" xml:space="preserve">
+		<value>删除页面</value>
+	</data>
+	<data name="EditPage.Text" xml:space="preserve">
+		<value>页面设置</value>
+	</data>
+	<data name="Expand.Text" xml:space="preserve">
+		<value>展开所有节点</value>
+	</data>
+	<data name="InvalidTabName.Text" xml:space="preserve">
+		<value>{0}是无效的页面标题！</value>
+	</data>
+	<data name="lblDisabled.Text" xml:space="preserve">
+		<value>页面被禁用</value>
+	</data>
+	<data name="lblHidden.Text" xml:space="preserve">
+		<value>隐藏的页面</value>
+	</data>
+	<data name="lblHome.Text" xml:space="preserve">
+		<value>网站主页</value>
+	</data>
+	<data name="lblSecure.Text" xml:space="preserve">
+		<value>仅选定角色可见</value>
+	</data>
+	<data name="lblEveryone.Text" xml:space="preserve">
+		<value>公共页面</value>
+	</data>
+	<data name="MovePageDown.Text" xml:space="preserve">
+		<value>下移</value>
+	</data>
+	<data name="MovePageUp.Text" xml:space="preserve">
+		<value>上移</value>
+	</data>
+	<data name="root.Text" xml:space="preserve">
+		<value>网站的根</value>
+	</data>
+	<data name="ShowHostTabs.Text" xml:space="preserve">
+		<value>主机设置相关页面</value>
+	</data>
+	<data name="ShowPortalTabs.Text" xml:space="preserve">
+		<value>网站页面</value>
+	</data>
+	<data name="ViewPage.Text" xml:space="preserve">
+		<value>查看页面</value>
+	</data>
+	<data name="DisablePage.Text" xml:space="preserve">
+		<value>在导航中禁用此链接</value>
+	</data>
+	<data name="EnablePage.Text" xml:space="preserve">
+		<value>在导航中启用此链接</value>
+	</data>
+	<data name="HidePage.Text" xml:space="preserve">
+		<value>在导航中隐藏</value>
+	</data>
+	<data name="lblHostOnly.Text" xml:space="preserve">
+		<value>管理：</value>
+	</data>
+	<data name="ShowPage.Text" xml:space="preserve">
+		<value>显示在导航</value>
+	</data>
+	<data name="lblAdminOnly.Text" xml:space="preserve">
+		<value>仅管理员可见</value>
+	</data>
+	<data name="lblRegistered.Text" xml:space="preserve">
+		<value>注册用户可见</value>
+	</data>
+	<data name="btnBulkCreate.Text" xml:space="preserve">
+		<value>创建页</value>
+	</data>
+	<data name="BulkCreateIntro.Text" xml:space="preserve">
+		<value>这将在选中的页面下根据所输入的内容每行创建一个页面。如要创建不同层次，您可能需要在行前面加上“&amp;gt;”。</value>
+	</data>
+	<data name="MakeHome.Text" xml:space="preserve">
+		<value>设为首页</value>
+	</data>
+	<data name="cmdMore.Text" xml:space="preserve">
+		<value>更多设置</value>
+	</data>
+	<data name="cmdUpdate.Text" xml:space="preserve">
+		<value>更新页面</value>
+	</data>
+	<data name="Appearance.Tabname" xml:space="preserve">
+		<value>外观设置</value>
+	</data>
+	<data name="Common.Tabname" xml:space="preserve">
+		<value>基本设置</value>
+	</data>
+	<data name="Link.Tabname" xml:space="preserve">
+		<value>链接设置</value>
+	</data>
+	<data name="Metatags.Tabname" xml:space="preserve">
+		<value>META设置</value>
+	</data>
+	<data name="Module.Header" xml:space="preserve">
+		<value>模块</value>
+	</data>
+	<data name="Modules.Tabname" xml:space="preserve">
+		<value>模块设置</value>
+	</data>
+	<data name="ModuleTitle.Header" xml:space="preserve">
+		<value>模块标题</value>
+	</data>
+	<data name="Options.Header" xml:space="preserve">
+		<value>选项</value>
+	</data>
+	<data name="Permissions.Tabname" xml:space="preserve">
+		<value>权限设置</value>
+	</data>
+	<data name="SEO.Tabname" xml:space="preserve">
+		<value>搜索引擎优化</value>
+	</data>
+	<data name="lblContainer.Text" xml:space="preserve">
+		<value>默认的容器</value>
+	</data>
+	<data name="lblDescription.Text" xml:space="preserve">
+		<value>页面说明</value>
+	</data>
+	<data name="lblDisabledPage.Text" xml:space="preserve">
+		<value>禁用页面</value>
+	</data>
+	<data name="lblIconLarge.Text" xml:space="preserve">
+		<value>大图标</value>
+	</data>
+	<data name="lblIconSmall.Text" xml:space="preserve">
+		<value>小图标</value>
+	</data>
+	<data name="lblKeywords.Text" xml:space="preserve">
+		<value>页面关键词</value>
+	</data>
+	<data name="lblMetaHead.Text" xml:space="preserve">
+		<value>页面头部标签</value>
+	</data>
+	<data name="lblMetaRefresh.Text" xml:space="preserve">
+		<value>刷新间隔（秒）</value>
+	</data>
+	<data name="lblName.Text" xml:space="preserve">
+		<value>页面名称</value>
+	</data>
+	<data name="lblPageSSL.Text" xml:space="preserve">
+		<value>安全页面</value>
+	</data>
+	<data name="lblPermanentRedirect.Text" xml:space="preserve">
+		<value>永久重定向</value>
+	</data>
+	<data name="lblSitemapPriority.Text" xml:space="preserve">
+		<value>网站地图优先设置</value>
+	</data>
+	<data name="lblSkin.Text" xml:space="preserve">
+		<value>页面皮肤</value>
+	</data>
+	<data name="lblTitle.Text" xml:space="preserve">
+		<value>页面标题</value>
+	</data>
+	<data name="lblVisible.Text" xml:space="preserve">
+		<value>显示在菜单中</value>
+	</data>
+	<data name="lblTags.Text" xml:space="preserve">
+		<value>页面标签</value>
+	</data>
+	<data name="cmdCopySkin.Text" xml:space="preserve">
+		<value>复制选定的皮肤，应用到子页面</value>
+	</data>
+	<data name="DefaultContainer.Text" xml:space="preserve">
+		<value>[默认容器]</value>
+	</data>
+	<data name="DefaultSkin.Text" xml:space="preserve">
+		<value>[默认皮肤]</value>
+	</data>
+	<data name="DesignCopied.Text" xml:space="preserve">
+		<value>皮肤应用到所有的子页面</value>
+	</data>
+	<data name="DesignCopyError.Text" xml:space="preserve">
+		<value>应用所选的皮肤到所有子页面时发生错误</value>
+	</data>
+	<data name="Host.Text" xml:space="preserve">
+		<value>主机</value>
+	</data>
+	<data name="Site.Text" xml:space="preserve">
+		<value>网站</value>
+	</data>
+	<data name="lblUrl.Text" xml:space="preserve">
+		<value>链接</value>
+	</data>
+	<data name="TabRecycled.Text" xml:space="preserve">
+		<value>回收站中有同名的页面。要恢复此网页使用回收站。</value>
+	</data>
+	<data name="lblNoRecords.Text" xml:space="preserve">
+		<value>选定的页面上有没有模块。</value>
+	</data>
+	<data name="TabExists.Text" xml:space="preserve">
+		<value>您所选择的页面名称已被另一个在菜单中同级的页面使用。</value>
+	</data>
+	<data name="TabCreated.Text" xml:space="preserve">
+		<value>页面{0}创建成功</value>
+	</data>
+	<data name="TabDeleted.Text" xml:space="preserve">
+		<value>页面{0}已删除</value>
+	</data>
+	<data name="TabHidden.Text" xml:space="preserve">
+		<value>页面{0}从导航中隐藏</value>
+	</data>
+	<data name="TabShown.Text" xml:space="preserve">
+		<value>页面{0}在导航中显示</value>
+	</data>
+	<data name="TabEnabled.Text" xml:space="preserve">
+		<value>启用页面{0}</value>
+	</data>
+	<data name="TabDisabled.Text" xml:space="preserve">
+		<value>禁用页面{0}</value>
+	</data>
+	<data name="TabMadeHome.Text" xml:space="preserve">
+		<value>设置{0}为首页</value>
+	</data>
+	<data name="TabUpdated.Text" xml:space="preserve">
+		<value>页面{0}已更新</value>
+	</data>
+	<data name="TabMoved.Text" xml:space="preserve">
+		<value>移动页面{0}</value>
+	</data>
+	<data name="EmptyTabName.Text" xml:space="preserve">
+		<value>页面名称是空的</value>
+	</data>
+	<data name="lblLegend.Text" xml:space="preserve">
+		<value>标记解释</value>
+	</data>
+	<data name="lblContainer.Help" xml:space="preserve">
+		<value>所选容器将应用于此页上的所有模块。</value>
+	</data>
+	<data name="lblDescription.Help" xml:space="preserve">
+		<value>输入有关此页的描述。</value>
+	</data>
+	<data name="lblDisabledPage.Help" xml:space="preserve">
+		<value>如果页面禁用，用户将无法访问。您可以使用此选项禁止页面访问，在稍后页面准备就绪再开启访问。</value>
+	</data>
+	<data name="lblIconLarge.Help" xml:space="preserve">
+		<value>您可以选择将在控制台中使用的大图标。</value>
+	</data>
+	<data name="lblIconSmall.Help" xml:space="preserve">
+		<value>您可以选择在菜单中显示的图标。</value>
+	</data>
+	<data name="lblKeywords.Help" xml:space="preserve">
+		<value>输入一些和这个页面相关关键字，用逗号分隔。使用这些关键字来辅助索引擎索引网页。</value>
+	</data>
+	<data name="lblMetaHead.Help" xml:space="preserve">
+		<value>输入任何需要显示在页面源代码&lt;HEAD&gt;标签内的标记， 例如,元标记(META tag) </value>
+	</data>
+	<data name="lblMetaRefresh.Help" xml:space="preserve">
+		<value>输入自动页面刷新时间间隔。 （例如：输入“60” 即为1分钟或留空禁用）</value>
+	</data>
+	<data name="lblName.Help" xml:space="preserve">
+		<value>这是页面的名称。您输入的文本将显示在菜单系统中。</value>
+	</data>
+	<data name="lblPageSSL.Help" xml:space="preserve">
+		<value>指定此页是否应强制使用安全连接（SSL）。如果管理员已启用SSL的站点设置，这个选项才会启用。</value>
+	</data>
+	<data name="lblPermanentRedirect.Help" xml:space="preserve">
+		<value>选中此复选框，如果这个页面被视为永久迁移的页面。搜索引擎将会修改其网址直接链接到新的资源。如果连接类型是“无”，此设置将被忽略。</value>
+	</data>
+	<data name="lblSitemapPriority.Help" xml:space="preserve">
+		<value>输入您所认为的优先级（0和1.0之间）。这有助于谷歌决定这个页面的排名，这之是相对于网站其他的网页（0.5是默认值）。</value>
+	</data>
+	<data name="lblSkin.Help" xml:space="preserve">
+		<value>所选的外观将被应用到这个页面。</value>
+	</data>
+	<data name="lblTags.Help" xml:space="preserve">
+		<value>从下拉选择此页面的标签。</value>
+	</data>
+	<data name="lblTitle.Help" xml:space="preserve">
+		<value>输入页面标题。输入的文本将显示在浏览器窗口的标题栏。</value>
+	</data>
+	<data name="lblUrl.Help" xml:space="preserve">
+		<value>如果您想此页链接到其它资源，可以指定链接的URL。请注意，此字段是可选的。</value>
+	</data>
+	<data name="lblVisible.Help" xml:space="preserve">
+		<value>您可以选择此页面是否显示在导航菜单中。如果一个页面不显示在菜单中，您仍然可以从其它页面链接到此页面。</value>
+	</data>
+	<data name="valName.Text" xml:space="preserve">
+		<value>页面名称是必填字段</value>
+	</data>
+	<data name="bulkPagesLabel.Text" xml:space="preserve">
+		<value>页面：</value>
+	</data>
+</root>

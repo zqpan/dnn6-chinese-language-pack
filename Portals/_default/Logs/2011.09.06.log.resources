@@ -1,0 +1,588 @@
+2011-09-06 01:41:19,315 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,505 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,522 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,538 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,553 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,556 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,571 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,577 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,603 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,607 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,619 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:41:19,623 [John-PC][Thread:6][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,643 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,648 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,656 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,660 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,664 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,668 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,673 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,713 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,718 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,723 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,726 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:21,731 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,270 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,275 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,277 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,282 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,286 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,289 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,292 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,295 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,298 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,302 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,305 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:46:40,308 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,862 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,866 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,870 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,873 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,875 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,878 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,882 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,889 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,896 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,901 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,907 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:02,912 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,602 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,607 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,611 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,614 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,617 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,620 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,623 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,627 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,632 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,635 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,638 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:47:14,642 [John-PC][Thread:17][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,461 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,466 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,469 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,472 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,475 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,478 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,482 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,494 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,497 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,500 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,502 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:48:33,506 [John-PC][Thread:18][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,669 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,754 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,758 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,762 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,765 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,767 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/help.ascx.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,770 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,775 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,778 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.zh-cn.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,782 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.portal-0.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,786 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.host.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+2011-09-06 01:50:00,789 [John-PC][Thread:20][ERROR] DotNetNuke.Common.Utilities.DataCache - 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+System.ArgumentException: 此处不允许使用相对虚拟路径“controls/app_localresources/sharedresources.resx”。
+   在 System.Web.VirtualPath.FailIfRelativePath()
+   在 System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   在 System.Web.Hosting.HostingEnvironment.MapPath(VirtualPath virtualPath)
+   在 DotNetNuke.Services.Localization.Localization.GetResourceFileCallBack(CacheItemArgs cacheItemArgs)
+   在 DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromDictionary(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
